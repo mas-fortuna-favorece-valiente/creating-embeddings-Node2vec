@@ -22,7 +22,8 @@ def main():
     parser.add_argument('--num_walks', type=int, default=10, help='Number of walks per node (default: 10)')
     parser.add_argument('--window_size', type=int, default=10, help='Word2Vec window size (default: 10)')
     parser.add_argument('--epochs', type=int, default=20, help='Training epochs (default: 20)')
-    
+    parser.add_argument('--p', type = float, default=1.0, help ='Return parameter p (default: 1.0)')
+    parser.add_argument('--q', type = float, default=1.0, help ='In-out parameter q (default: 1.0)')
     args = parser.parse_args()
     
     print(f"Gensim version: {gensim.__version__}")
@@ -57,8 +58,8 @@ def main():
             nodes=list(graph.nodes()),
             length=args.walk_length,
             n=args.num_walks,
-            p=1.0,
-            q=1.0
+            p=args.p,
+            q=args.q
         )
         print(f"Generated {len(walks)} walks")
     except Exception as e:
