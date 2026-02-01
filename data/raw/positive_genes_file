@@ -1,0 +1,1160 @@
+Disease	Disease_id	Gene	Gene_id	UniProt	Gene_Full_Name	Protein_Class	N_diseases_g	DSI_g	DPI_g	pLI	Score_gda	EL_gda	EI_gda	N_PMIDs	N_SNPs_gda	First_Ref	Last_Ref
+Ischemic stroke	C0948008	GLA	2717	P06280	galactosidase alpha		190	0.537	0.769	0.99675	0.32	strong	1.0	3	0	2004.0	2014.0
+Ischemic stroke	C0948008	APP	351	P05067	amyloid beta precursor protein	Enzyme modulator	485	0.422	0.846	0.046544	0.31	strong	1.0	2	0	2010.0	2020.0
+Ischemic stroke	C0948008	COL3A1	1281	P02461	collagen type III alpha 1 chain		301	0.477	0.808	1.0	0.3	strong	1.0	1	0	1995.0	1995.0
+Ischemic stroke	C0948008	ITM2B	9445	Q9Y287	integral membrane protein 2B		77	0.617	0.654	0.62589	0.3	limited	1.0	1	0	2000.0	2000.0
+Ischemic stroke	C0948008	F2	2147	P00734	coagulation factor II, thrombin	Enzyme	490	0.415	0.885	0.0011118	0.2		0.938	32	5	1998.0	2019.0
+Ischemic stroke	C0948008	F5	2153	P12259	coagulation factor V	Enzyme	369	0.441	0.846	5.919e-15	0.2		0.962	26	2	1998.0	2019.0
+Ischemic stroke	C0948008	NOTCH3	4854	Q9UM47	notch receptor 3		418	0.435	0.808	0.40757	0.2		1.0	14	5	2004.0	2019.0
+Ischemic stroke	C0948008	ADAMTS13	11093	Q76LX8	ADAM metallopeptidase with thrombospondin type 1 motif 13	Enzyme	229	0.496	0.769	5.1409e-15	0.19		1.0	10	1	2006.0	2019.0
+Ischemic stroke	C0948008	HDAC9	9734	Q9UKV0	histone deacetylase 9	Epigenetic regulator	340	0.439	0.846	0.99973	0.19		0.9	10	3	2012.0	2019.0
+Ischemic stroke	C0948008	CDKN2B-AS1	100048912		CDKN2B antisense RNA 1		213	0.491	0.769		0.18		0.889	9	11	2012.0	2020.0
+Ischemic stroke	C0948008	LDLR	3949	P01130	low density lipoprotein receptor		336	0.449	0.885	9.841e-24	0.16		0.833	6	41	2006.0	2019.0
+Ischemic stroke	C0948008	ALDH2	217	P05091	aldehyde dehydrogenase 2 family member	Enzyme	337	0.457	0.885	3.3959e-10	0.15		1.0	6	4	2016.0	2019.0
+Ischemic stroke	C0948008	ABO	28	P16442	ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase	Enzyme	443	0.427	0.885		0.15		0.857	7	3	2012.0	2018.0
+Ischemic stroke	C0948008	ZFHX3	463	Q15911;Q6ZP98	zinc finger homeobox 3		85	0.621	0.654	0.44753	0.13		0.75	4	2	2009.0	2020.0
+Ischemic stroke	C0948008	ACTA2	59	P62736	actin alpha 2, smooth muscle	Cellular structure	200	0.508	0.846	0.93017	0.13		1.0	3	0	2009.0	2019.0
+Ischemic stroke	C0948008	PROCR	10544	Q9UNN8	protein C receptor	Enzyme modulator	110	0.56	0.692	0.0056256	0.12		1.0	3	2	2014.0	2018.0
+Ischemic stroke	C0948008	PDE3A	5139	Q14432	phosphodiesterase 3A		58	0.67	0.577	0.00019291	0.12		1.0	3	1	2017.0	2019.0
+Ischemic stroke	C0948008	SLCO1B1	10599	Q9Y6L6	solute carrier organic anion transporter family member 1B1	Transporter	151	0.538	0.731	1.1086e-21	0.11		1.0	2	1	2016.0	2019.0
+Ischemic stroke	C0948008	COL4A1	1282	P02462	collagen type IV alpha 1 chain		277	0.484	0.731	1.0	0.11		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	LOX	4015	P28300	lysyl oxidase		328	0.447	0.846	0.98769	0.11		1.0	1	1	2012.0	2012.0
+Ischemic stroke	C0948008	SMAD3	4088	P84022	SMAD family member 3	Transcription factor	470	0.415	0.923	0.79796	0.11		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ABCC1	4363	P33527	ATP binding cassette subfamily C member 1	Transporter	333	0.445	0.808	0.0011727	0.11		1.0	2	1	2016.0	2019.0
+Ischemic stroke	C0948008	PRKG1	5592	Q13976	protein kinase cGMP-dependent 1	Kinase	114	0.603	0.769	0.99938	0.11		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	TGFBR2	7048	P37173	transforming growth factor beta receptor 2	Kinase	502	0.413	0.846	0.12535	0.11		1.0	1	2	2011.0	2011.0
+Ischemic stroke	C0948008	C20orf181	100128998		chromosome 20 open reading frame 181		246	0.479	0.885		0.1		0.98	101	0	2001.0	2020.0
+Ischemic stroke	C0948008	SH2B3	10019	Q9UQQ2	SH2B adaptor protein 3		212	0.527	0.692	0.00010289	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	PMF1-BGLAP	100527963	Q6P1K2	PMF1-BGLAP readthrough		9	0.861	0.192	1.073e-08	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	PATJ	10207	Q8NI35	PATJ crumbs cell polarity complex component		33	0.751	0.538	1.1917e-50	0.1		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	CDK6	1021	Q00534	cyclin dependent kinase 6	Kinase	266	0.471	0.731	0.98315	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	CDKN1A	1026	P38936	cyclin dependent kinase inhibitor 1A		490	0.403	0.769	0.0018575	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	CDKN2C	1031	P42773	cyclin dependent kinase inhibitor 2C		149	0.527	0.654	0.39526	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	CERNA3	105375847		competing endogenous lncRNA 3 for miR-645		140	0.531	0.808		0.1		1.0	11	0	2017.0	2020.0
+Ischemic stroke	C0948008	PRPF8	10594	Q6P2Q9	pre-mRNA processing factor 8	Nucleic acid binding	70	0.631	0.615	1.0	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	DINOL	108783646		damage induced long noncoding RNA		10	0.821	0.346		0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	CHD3	1107	Q12873	chromodomain helicase DNA binding protein 3		55	0.67	0.577	1.0	0.1		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	FAF1	11124	Q9UNN5	Fas associated factor 1		49	0.666	0.731	0.99895	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	PMF1	11243	Q6P1K2	polyamine modulated factor 1		11	0.839	0.192	1.073e-08	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	NLRP3	114548	Q96P20	NLR family pyrin domain containing 3		805	0.361	0.962	0.00081103	0.1		1.0	11	2	2016.0	2019.0
+Ischemic stroke	C0948008	APOA5	116519	Q6Q788	apolipoprotein A5		107	0.587	0.615	5.5765e-10	0.1		0.909	11	4	2006.0	2018.0
+Ischemic stroke	C0948008	AGBL1	123624	Q96MI9	ATP/GTP binding protein like 1	Enzyme	15	0.78	0.231	1.4377e-30	0.1		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	CRP	1401	P02741	C-reactive protein		1483	0.299	0.962	0.0036969	0.1		1.0	48	7	2005.0	2020.0
+Ischemic stroke	C0948008	CYP2C19	1557	P33261	cytochrome P450 family 2 subfamily C member 19		274	0.467	0.846	6.4882e-20	0.1		0.933	15	0	2013.0	2019.0
+Ischemic stroke	C0948008	DAB1	1600	O75553	DAB adaptor protein 1	Signaling	81	0.626	0.615	0.99915	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	ACE	1636	P12821	angiotensin I converting enzyme	Enzyme	1082	0.328	0.923	1.0344e-37	0.1		0.857	42	6	1995.0	2019.0
+Ischemic stroke	C0948008	AGT	183	P01019	angiotensinogen	Enzyme modulator	765	0.367	0.923	4.9706e-08	0.1		1.0	14	2	2007.0	2019.0
+Ischemic stroke	C0948008	AGTR1	185	P30556	angiotensin II receptor type 1	G-protein coupled receptor	440	0.423	0.846	0.00053161	0.1		0.917	12	3	2004.0	2020.0
+Ischemic stroke	C0948008	EDN1	1906	P05305	endothelin 1	Signaling	679	0.38	0.846	0.45504	0.1		1.0	11	1	2014.0	2019.0
+Ischemic stroke	C0948008	ELN	2006	P15502	elastin		545	0.415	0.885	2.1429e-14	0.1			0	0		
+Ischemic stroke	C0948008	ENG	2022	P17813	endoglin		371	0.446	0.846	0.99858	0.1			0	0		
+Ischemic stroke	C0948008	FBN1	2200	P35555	fibrillin 1	Calcium-binding protein	552	0.417	0.846	1.0	0.1			0	1		
+Ischemic stroke	C0948008	FGB	2244	P02675	fibrinogen beta chain	Signaling	95	0.584	0.692	0.56616	0.1		0.944	18	3	1997.0	2019.0
+Ischemic stroke	C0948008	FOXE3	2301	Q13461	forkhead box E3	Transcription factor	118	0.568	0.654	0.18135	0.1			0	0		
+Ischemic stroke	C0948008	LRCH1	23143	Q9Y2L9	leucine rich repeats and calponin homology domain containing 1		19	0.769	0.269	0.99552	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	TSPAN15	23555	O95858	tetraspanin 15		17	0.78	0.346	0.0079572	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	ALOX5	240	P09917	arachidonate 5-lipoxygenase	Enzyme	342	0.447	0.885	1.2059e-06	0.1		1.0	14	3	2005.0	2017.0
+Ischemic stroke	C0948008	ALOX5AP	241	P20292	arachidonate 5-lipoxygenase activating protein	Enzyme	76	0.612	0.731	0.070729	0.1		0.857	28	10	2005.0	2019.0
+Ischemic stroke	C0948008	NAALADL2	254827	Q58DX5	N-acetylated alpha-linked acidic dipeptidase like 2	Enzyme	19	0.729	0.577	8.7292e-08	0.1		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	PCSK9	255738	Q8NBP7	proprotein convertase subtilisin/kexin type 9	Enzyme	257	0.482	0.808	2.7059e-17	0.1		1.0	10	3	2007.0	2020.0
+Ischemic stroke	C0948008	SLC26A11	284129	Q86WA9	solute carrier family 26 member 11	Transporter	5	0.89	0.269	3.0064e-19	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	F11-AS1	285441		F11 antisense RNA 1		15	0.805	0.308		0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	APOB	338	P04114	apolipoprotein B		339	0.453	0.808	1.9234e-16	0.1		0.909	11	7	1997.0	2020.0
+Ischemic stroke	C0948008	TSPAN33	340348	Q86UF1	tetraspanin 33		69	0.606	0.731	7.0071e-05	0.1		1.0	26	0	2004.0	2020.0
+Ischemic stroke	C0948008	APOE	348	P02649	apolipoprotein E		1049	0.338	0.962	0.0018685	0.1		0.933	45	4	1997.0	2019.0
+Ischemic stroke	C0948008	IL1B	3553	P01584	interleukin 1 beta		1801	0.276	0.962	0.13005	0.1		0.833	18	0	2004.0	2019.0
+Ischemic stroke	C0948008	IL1RN	3557	P18510	interleukin 1 receptor antagonist		701	0.373	0.923	0.030914	0.1		0.909	11	0	2003.0	2018.0
+Ischemic stroke	C0948008	IL6	3569	P05231	interleukin 6		2367	0.248	0.962	0.31536	0.1		0.857	35	2	2001.0	2020.0
+Ischemic stroke	C0948008	IL10	3586	P22301	interleukin 10		1679	0.281	0.923	0.0058874	0.1		0.882	17	3	2010.0	2020.0
+Ischemic stroke	C0948008	ILF3	3609	Q12906	interleukin enhancer binding factor 3	Nucleic acid binding	68	0.621	0.654	1.0	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	KCNK1	3775	O00180	potassium two pore domain channel subfamily K member 1	Ion channel	14	0.76	0.462	0.031161	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	KCNK3	3777	O14649	potassium two pore domain channel subfamily K member 3	Ion channel	93	0.584	0.654	0.90018	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	C10orf143	387723	A0A1B0GUT2	chromosome 10 open reading frame 143		16	0.78	0.269		0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	LPA	4018	P08519	lipoprotein(a)	Enzyme	340	0.444	0.769	6.5917e-89	0.1		1.0	19	0	1992.0	2020.0
+Ischemic stroke	C0948008	LPL	4023	P06858	lipoprotein lipase	Enzyme	290	0.474	0.808	1.2712e-09	0.1		0.818	11	1	1997.0	2018.0
+Ischemic stroke	C0948008	MIR146A	406938		microRNA 146a		505	0.398	0.885		0.1		0.769	13	1	2014.0	2018.0
+Ischemic stroke	C0948008	MAT2A	4144	P31153	methionine adenosyltransferase 2A	Enzyme	81	0.615	0.654	0.99846	0.1			0	0		
+Ischemic stroke	C0948008	MMP9	4318	P14780	matrix metallopeptidase 9	Enzyme	1337	0.305	0.923	1.8869e-17	0.1		0.931	29	2	2010.0	2020.0
+Ischemic stroke	C0948008	MTHFR	4524	P42898	methylenetetrahydrofolate reductase		985	0.337	0.885	3.2068e-10	0.1		0.947	76	8	1998.0	2019.0
+Ischemic stroke	C0948008	MYH11	4629	P35749	myosin heavy chain 11		161	0.528	0.731	0.77299	0.1			0	0		
+Ischemic stroke	C0948008	MYLK	4638	Q15746	myosin light chain kinase	Kinase	199	0.51	0.846	9.1706e-12	0.1			0	0		
+Ischemic stroke	C0948008	NINJ2	4815	Q9NZG7	ninjurin 2	Cell adhesion	20	0.751	0.269	0.0010696	0.1		1.0	11	1	2011.0	2019.0
+Ischemic stroke	C0948008	NOS3	4846	P29474	nitric oxide synthase 3		706	0.378	0.885	6.7246e-07	0.1		0.921	38	4	1998.0	2019.0
+Ischemic stroke	C0948008	SERPINE1	5054	P05121	serpin family E member 1	Enzyme modulator	770	0.359	0.885	0.043609	0.1		0.792	24	2	2002.0	2020.0
+Ischemic stroke	C0948008	PCDH7	5099	O60245	protocadherin 7		35	0.663	0.462	0.39505	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	PCYT1A	5130	P49585	phosphate cytidylyltransferase 1, choline, alpha		256	0.485	0.885	2.024e-05	0.1		1.0	11	0	2017.0	2020.0
+Ischemic stroke	C0948008	PDE4D	5144	Q08499	phosphodiesterase 4D		210	0.519	0.846	0.9998	0.1		0.885	52	10	2003.0	2020.0
+Ischemic stroke	C0948008	PIK3CA	5290	P42336	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	Kinase	1511	0.292	0.923	1.0	0.1		1.0	11	0	2016.0	2019.0
+Ischemic stroke	C0948008	PIK3CB	5291	P42338	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta	Kinase	1083	0.322	0.885	0.99964	0.1		1.0	11	0	2016.0	2019.0
+Ischemic stroke	C0948008	PIK3CD	5293	O00329	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta	Kinase	1119	0.319	0.885	0.99999	0.1		1.0	11	0	2016.0	2019.0
+Ischemic stroke	C0948008	PIK3CG	5294	P48736	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma	Kinase	1101	0.32	0.885	1.4076e-06	0.1		1.0	13	0	2016.0	2019.0
+Ischemic stroke	C0948008	PLAT	5327	P00750	plasminogen activator, tissue type	Enzyme	392	0.445	0.885	5.6593e-05	0.1		0.987	75	1	2004.0	2020.0
+Ischemic stroke	C0948008	PLG	5340	P00747	plasminogen	Enzyme	586	0.389	0.923	0.010345	0.1		0.929	14	0	2001.0	2020.0
+Ischemic stroke	C0948008	PON1	5444	P27169	paraoxonase 1		496	0.409	0.885	9.8142e-11	0.1		0.842	19	3	2004.0	2019.0
+Ischemic stroke	C0948008	PPARG	5468	P37231	peroxisome proliferator activated receptor gamma	Nuclear receptor	877	0.358	0.885	0.029194	0.1		1.0	13	4	2007.0	2020.0
+Ischemic stroke	C0948008	CASZ1	54897	Q86V15	castor zinc finger 1	Transcription factor	132	0.553	0.731	1.0	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	KIF26B	55083	Q2KJY2	kinesin family member 26B	Cellular structure	38	0.67	0.5	0.99999	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	AVP	551	P01185	arginine vasopressin	Signaling	454	0.437	0.846	0.074413	0.1		1.0	10	0	2014.0	2019.0
+Ischemic stroke	C0948008	PROC	5624	P04070	protein C, inactivator of coagulation factors Va and VIIIa	Enzyme	200	0.504	0.808	1.9118e-05	0.1		1.0	11	0	2009.0	2019.0
+Ischemic stroke	C0948008	SLC44A2	57153	Q8IWA5	solute carrier family 44 member 2	Transporter	21	0.743	0.462	0.00011917	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	PTGS2	5743	P35354	prostaglandin-endoperoxide synthase 2	Enzyme	1234	0.314	0.962	0.99597	0.1		0.833	12	4	1997.0	2019.0
+Ischemic stroke	C0948008	PTPRD	5789	P23468	protein tyrosine phosphatase receptor type D	Enzyme	93	0.584	0.731	1.0	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	PTPRG	5793	P23470	protein tyrosine phosphatase receptor type G	Enzyme	70	0.619	0.731	5.0736e-06	0.1		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	NTN4	59277	Q9HB63	netrin 4	Enzyme modulator	35	0.695	0.538	0.91585	0.1		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	BDNF	627	P23560	brain derived neurotrophic factor	Signaling	992	0.345	0.923	0.65626	0.1		1.0	23	4	2010.0	2019.0
+Ischemic stroke	C0948008	ATXN2	6311	Q99700	ataxin 2	Nucleic acid binding	341	0.482	0.808	0.85289	0.1		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	SMARCA4	6597	P51532	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	Epigenetic regulator	347	0.45	0.885	1.0	0.1		1.0	1	2	2018.0	2018.0
+Ischemic stroke	C0948008	FUNDC2	65991	Q9BWH2	FUN14 domain containing 2		15	0.76	0.385	0.059823	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	SON	6651	P18583	SON DNA binding protein		154	0.565	0.769	1.0	0.1			0	0		
+Ischemic stroke	C0948008	STAT3	6774	P40763	signal transducer and activator of transcription 3	Nucleic acid binding	1193	0.32	0.923	1.0	0.1		1.0	13	0	2015.0	2020.0
+Ischemic stroke	C0948008	TGFB2	7042	P61812	transforming growth factor beta 2	Signaling	389	0.433	0.885	0.99905	0.1			0	0		
+Ischemic stroke	C0948008	TGFB3	7043	P10600	transforming growth factor beta 3	Signaling	230	0.498	0.808	0.98727	0.1			0	0		
+Ischemic stroke	C0948008	TGFBR1	7046	P36897	transforming growth factor beta receptor 1	Kinase	347	0.451	0.885	0.85379	0.1			0	0		
+Ischemic stroke	C0948008	TLR4	7099	O00206	toll like receptor 4		1174	0.321	0.962	4.6131e-09	0.1		0.923	13	5	2005.0	2020.0
+Ischemic stroke	C0948008	TNF	7124	P01375	tumor necrosis factor	Signaling	2724	0.231	0.962	0.8033	0.1		0.963	27	1	2001.0	2019.0
+Ischemic stroke	C0948008	VEGFA	7422	P15692	vascular endothelial growth factor A	Signaling	1899	0.266	0.923	2.4085e-05	0.1		1.0	11	1	1997.0	2019.0
+Ischemic stroke	C0948008	VWF	7450	P04275	von Willebrand factor	Enzyme modulator	498	0.408	0.885	3.2187e-25	0.1		1.0	13	0	2001.0	2019.0
+Ischemic stroke	C0948008	MFAP5	8076	Q13361	microfibril associated protein 5		92	0.59	0.615	0.0050619	0.1			0	0		
+Ischemic stroke	C0948008	SLC2A10	81031	O95528	solute carrier family 2 member 10	Transporter	135	0.55	0.615	1.5672e-08	0.1			0	0		
+Ischemic stroke	C0948008	QRICH2	84074	Q9H0J4	glutamine rich 2		10	0.861	0.308	1.0765e-28	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	RUNX1	861	Q01196	RUNX family transcription factor 1	Transcription factor	412	0.425	0.808	0.65377	0.1		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	ALDH1A2	8854	O94788	aldehyde dehydrogenase 1 family member A2	Enzyme	109	0.578	0.692	0.36331	0.1		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	HPS4	89781	Q9NQG7	HPS4 biogenesis of lysosomal organelles complex 3 subunit 2		26	0.743	0.385	0.00013778	0.1		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	COX7A2L	9167	O14548	cytochrome c oxidase subunit 7A2 like	Enzyme	23	0.736	0.385	1.1516e-06	0.1		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	ADIPOQ	9370	Q15848	adiponectin, C1Q and collagen domain containing		679	0.376	0.885	4.6434e-09	0.1		0.929	14	10	2006.0	2019.0
+Ischemic stroke	C0948008	PLAA	9373	Q9Y263	phospholipase A2 activating protein	Enzyme modulator	113	0.597	0.692	0.46873	0.1		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	ACVRL1	94	P37023	activin A receptor like type 1	Kinase	224	0.493	0.769	0.00096719	0.1			0	0		
+Ischemic stroke	C0948008	CDC5L	988	Q99459	cell division cycle 5 like		21	0.743	0.385	1.0	0.1		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	EPO	2056	P01588	erythropoietin		646	0.381	0.885	0.01125	0.09		1.0	9	0	2004.0	2019.0
+Ischemic stroke	C0948008	HMGB1	3146	P09429	high mobility group box 1	Nucleic acid binding	724	0.368	0.923	0.82035	0.09		1.0	9	1	2013.0	2020.0
+Ischemic stroke	C0948008	MMP3	4314	P08254	matrix metallopeptidase 3	Enzyme	473	0.408	0.885	5.7362e-15	0.09		0.889	9	2	2012.0	2018.0
+Ischemic stroke	C0948008	MIR499A	574501		microRNA 499a		156	0.519	0.846		0.09		0.778	9	1	2013.0	2019.0
+Ischemic stroke	C0948008	SELP	6403	P16109	selectin P		293	0.46	0.769	5.0448e-32	0.09		0.889	9	2	2006.0	2019.0
+Ischemic stroke	C0948008	PLA2G7	7941	Q13093	phospholipase A2 group VII	Enzyme	136	0.537	0.769	5.3314e-22	0.09		0.889	9	2	2011.0	2020.0
+Ischemic stroke	C0948008	CYP4F2	8529	P78329	cytochrome P450 family 4 subfamily F member 2	Enzyme	44	0.674	0.308	7.5803e-17	0.09		1.0	9	7	2008.0	2019.0
+Ischemic stroke	C0948008	IGF1	3479	P05019	insulin like growth factor 1		1206	0.318	0.885	0.2716	0.08		1.0	8	1	2013.0	2020.0
+Ischemic stroke	C0948008	CXCL8	3576	P10145	C-X-C motif chemokine ligand 8	Signaling	1254	0.31	0.962	0.00027377	0.08		1.0	8	0	1999.0	2019.0
+Ischemic stroke	C0948008	IL17A	3605	Q16552	interleukin 17A		1074	0.324	0.923	0.043049	0.08		1.0	8	1	1999.0	2019.0
+Ischemic stroke	C0948008	AQP4	361	P55087	aquaporin 4	Ion channel	311	0.456	0.885	0.0022919	0.08		1.0	8	0	2015.0	2020.0
+Ischemic stroke	C0948008	LTA	4049	P01374	lymphotoxin alpha	Signaling	353	0.434	0.885	0.19685	0.08		1.0	8	1	2005.0	2016.0
+Ischemic stroke	C0948008	NFE2L2	4780	Q16236	nuclear factor, erythroid 2 like 2	Enzyme	823	0.357	0.885	0.0035719	0.08		1.0	8	0	2017.0	2020.0
+Ischemic stroke	C0948008	P2RY12	64805	Q9H244	purinergic receptor P2Y12	G-protein coupled receptor	153	0.533	0.731	0.0016859	0.08		0.875	8	1	2008.0	2019.0
+Ischemic stroke	C0948008	EPHX2	2053	P34913	epoxide hydrolase 2	Enzyme	97	0.568	0.654	1.7936e-21	0.07		0.857	7	3	2005.0	2017.0
+Ischemic stroke	C0948008	ESR1	2099	P03372	estrogen receptor 1	Nuclear receptor	1101	0.324	0.962	0.9992	0.07		0.714	7	2	2007.0	2016.0
+Ischemic stroke	C0948008	FGFR1	2260	P11362	fibroblast growth factor receptor 1	Kinase	816	0.362	0.885	0.99984	0.07		1.0	7	0	2017.0	2020.0
+Ischemic stroke	C0948008	MMRN1	22915	Q13201	multimerin 1		272	0.465	0.846	2.0714e-25	0.07		1.0	7	0	2000.0	2017.0
+Ischemic stroke	C0948008	GABPA	2551	Q06546	GA binding protein transcription factor subunit alpha	Transcription factor	632	0.379	0.885	0.99812	0.07		1.0	7	0	2017.0	2020.0
+Ischemic stroke	C0948008	HIF1A	3091	Q16665	hypoxia inducible factor 1 subunit alpha	Transcription factor	1044	0.327	0.923	0.9777	0.07		1.0	7	0	2017.0	2019.0
+Ischemic stroke	C0948008	IL1A	3552	P01583	interleukin 1 alpha		1002	0.333	0.962	0.0001602	0.07		0.857	7	1	2006.0	2019.0
+Ischemic stroke	C0948008	MIR126	406913		microRNA 126		305	0.447	0.846		0.07		1.0	7	1	2013.0	2020.0
+Ischemic stroke	C0948008	MIR145	406937		microRNA 145		366	0.431	0.846		0.07		1.0	7	1	2012.0	2019.0
+Ischemic stroke	C0948008	OLR1	4973	P78380	oxidized low density lipoprotein receptor 1		133	0.544	0.769	0.007199	0.07		1.0	7	1	2006.0	2020.0
+Ischemic stroke	C0948008	CCL2	6347	P13500	C-C motif chemokine ligand 2	Signaling	1157	0.321	0.962	0.60786	0.07		1.0	7	1	2010.0	2019.0
+Ischemic stroke	C0948008	CXCL12	6387	P48061	C-X-C motif chemokine ligand 12		626	0.379	0.846	0.11851	0.07		1.0	7	0	2017.0	2020.0
+Ischemic stroke	C0948008	SELE	6401	P16581	selectin E		327	0.447	0.808	7.9058e-10	0.07		1.0	7	3	2009.0	2017.0
+Ischemic stroke	C0948008	CDKN2A	1029	P42771;Q8N726	cyclin dependent kinase inhibitor 2A		1314	0.3	0.885	0.39474	0.06		1.0	6	1	2009.0	2018.0
+Ischemic stroke	C0948008	CETP	1071	P11597	cholesteryl ester transfer protein		188	0.512	0.731	1.1892e-23	0.06		0.667	6	2	2005.0	2018.0
+Ischemic stroke	C0948008	CYP11B2	1585	P19099	cytochrome P450 family 11 subfamily B member 2		142	0.553	0.615	7.1321e-19	0.06		1.0	6	1	2010.0	2015.0
+Ischemic stroke	C0948008	AGER	177	Q15109	advanced glycosylation end-product specific receptor	Receptor	450	0.42	0.885	6.3528e-16	0.06		1.0	6	1	2006.0	2017.0
+Ischemic stroke	C0948008	SIRT1	23411	Q96EB6	sirtuin 1	Epigenetic regulator	675	0.378	0.885	0.087326	0.06		1.0	6	0	2017.0	2018.0
+Ischemic stroke	C0948008	ICAM1	3383	P05362	intercellular adhesion molecule 1		737	0.364	0.962	0.035295	0.06		1.0	6	1	2003.0	2019.0
+Ischemic stroke	C0948008	IL18	3606	Q14116	interleukin 18		750	0.365	0.923	0.030717	0.06		1.0	6	2	2010.0	2019.0
+Ischemic stroke	C0948008	ITGA2	3673	P17301	integrin subunit alpha 2		166	0.522	0.731	6.2805e-11	0.06		0.833	6	1	2007.0	2019.0
+Ischemic stroke	C0948008	JAK2	3717	O60674	Janus kinase 2	Kinase	644	0.385	0.885	0.65372	0.06		1.0	6	1	2010.0	2019.0
+Ischemic stroke	C0948008	MIR223	407008		microRNA 223		348	0.433	0.808		0.06		1.0	6	0	2014.0	2019.0
+Ischemic stroke	C0948008	TNFRSF11B	4982	O00300	TNF receptor superfamily member 11b		443	0.422	0.808	0.16171	0.06		1.0	6	2	2013.0	2019.0
+Ischemic stroke	C0948008	TREM2	54209	Q9NZC2	triggering receptor expressed on myeloid cells 2		239	0.519	0.769	3.2892e-09	0.06		0.833	6	1	2013.0	2019.0
+Ischemic stroke	C0948008	PTGS1	5742	P23219	prostaglandin-endoperoxide synthase 1	Enzyme	318	0.46	0.885	6.2425e-07	0.06		0.833	6	3	2003.0	2019.0
+Ischemic stroke	C0948008	TGFB1	7040	P01137	transforming growth factor beta 1	Signaling	1558	0.287	0.962	0.03685	0.06		0.833	6	1	1997.0	2020.0
+Ischemic stroke	C0948008	CASP3	836	P42574	caspase 3	Enzyme	819	0.351	0.923	0.10017	0.06		1.0	6	0	2017.0	2019.0
+Ischemic stroke	C0948008	PPIG	9360	Q13427	peptidylprolyl isomerase G		203	0.497	0.846	0.96292	0.06		1.0	6	0	2016.0	2017.0
+Ischemic stroke	C0948008	SIGMAR1	10280	Q99720	sigma non-opioid intracellular receptor 1		190	0.544	0.808	0.1678	0.05		1.0	5	0	2014.0	2020.0
+Ischemic stroke	C0948008	CPB2	1361	Q96IY4	carboxypeptidase B2	Enzyme	148	0.536	0.846	2.7076e-17	0.05		1.0	5	2	2005.0	2018.0
+Ischemic stroke	C0948008	ABCA1	19	O95477	ATP binding cassette subfamily A member 1	Transporter	291	0.467	0.846	1.4525e-13	0.05		1.0	5	3	2007.0	2019.0
+Ischemic stroke	C0948008	MTOR	2475	P42345	mechanistic target of rapamycin kinase	Kinase	960	0.343	0.885	1.0	0.05		1.0	5	0	2016.0	2019.0
+Ischemic stroke	C0948008	GPX3	2878	P22352	glutathione peroxidase 3	Enzyme	156	0.522	0.769	0.050966	0.05		1.0	5	0	2007.0	2017.0
+Ischemic stroke	C0948008	IL4	3565	P05112	interleukin 4		996	0.332	0.962	0.0047372	0.05		1.0	5	2	2011.0	2019.0
+Ischemic stroke	C0948008	LGALS3	3958	P17931	galectin 3	Signaling	557	0.392	0.846	2.3207e-05	0.05		1.0	5	0	2017.0	2019.0
+Ischemic stroke	C0948008	MMP1	4312	P03956	matrix metallopeptidase 1	Enzyme	589	0.385	0.885	7.7197e-18	0.05		0.6	5	0	2014.0	2018.0
+Ischemic stroke	C0948008	MMP2	4313	P08253	matrix metallopeptidase 2	Enzyme	1021	0.333	0.923	0.83878	0.05		0.8	5	1	2015.0	2018.0
+Ischemic stroke	C0948008	NGF	4803	P01138	nerve growth factor	Signaling	616	0.391	0.885	0.82026	0.05		1.0	5	1	2017.0	2019.0
+Ischemic stroke	C0948008	GP6	51206	Q9HCN6	glycoprotein VI platelet	Receptor	89	0.597	0.615	1.6361e-11	0.05		1.0	5	1	2003.0	2019.0
+Ischemic stroke	C0948008	ABCB1	5243	P08183	ATP binding cassette subfamily B member 1	Transporter	933	0.344	0.885	1.2564e-05	0.05		1.0	5	2	2012.0	2019.0
+Ischemic stroke	C0948008	PRKCH	5583	P24723	protein kinase C eta	Kinase	55	0.653	0.577	0.42878	0.05		1.0	5	2	2009.0	2015.0
+Ischemic stroke	C0948008	MAPK3	5595	P27361	mitogen-activated protein kinase 3	Kinase	647	0.379	0.885	0.036884	0.05		1.0	5	0	2017.0	2019.0
+Ischemic stroke	C0948008	RETN	56729	Q9HD89	resistin		302	0.454	0.808	0.036545	0.05		1.0	5	0	2016.0	2020.0
+Ischemic stroke	C0948008	BRCA1	672	P38398	BRCA1 DNA repair associated	Enzyme	747	0.367	0.923	9.2157e-29	0.05		1.0	5	0	2013.0	2020.0
+Ischemic stroke	C0948008	THBD	7056	P07204	thrombomodulin		303	0.457	0.769	0.053769	0.05		1.0	5	2	2001.0	2018.0
+Ischemic stroke	C0948008	TP53	7157	P04637	tumor protein p53	Transcription factor	2494	0.236	0.962	0.53235	0.05		1.0	5	0	2004.0	2019.0
+Ischemic stroke	C0948008	APLN	8862	Q9ULZ1	apelin		226	0.497	0.769	0.45897	0.05		1.0	5	0	2017.0	2019.0
+Ischemic stroke	C0948008	KALRN	8997	O60229	kalirin RhoGEF kinase	Kinase	59	0.644	0.654	1.0	0.05		0.6	5	4	2010.0	2018.0
+Ischemic stroke	C0948008	KL	9365	Q9UEF7	klotho	Enzyme	332	0.448	0.769	0.00022444	0.05		1.0	5	0	2006.0	2020.0
+Ischemic stroke	C0948008	HDAC6	10013	Q9UBN7	histone deacetylase 6	Epigenetic regulator	288	0.465	0.846	1.0	0.04		1.0	4	0	2017.0	2020.0
+Ischemic stroke	C0948008	CDKN2B	1030	P42772	cyclin dependent kinase inhibitor 2B		440	0.417	0.769	0.0073369	0.04		1.0	4	0	2009.0	2017.0
+Ischemic stroke	C0948008	MTCO2P12	107075310		MT-CO2 pseudogene 12		703	0.368	0.962		0.04		0.75	4	0	1997.0	2019.0
+Ischemic stroke	C0948008	COL4A2	1284	P08572	collagen type IV alpha 2 chain		131	0.563	0.654	3.5842e-15	0.04		0.75	4	2	2015.0	2019.0
+Ischemic stroke	C0948008	COX8A	1351	P10176	cytochrome c oxidase subunit 8A	Enzyme	526	0.4	0.846	0.11606	0.04		1.0	4	0	2006.0	2019.0
+Ischemic stroke	C0948008	PARP1	142	P09874	poly(ADP-ribose) polymerase 1		565	0.389	0.923	0.00033366	0.04		1.0	4	1	2017.0	2018.0
+Ischemic stroke	C0948008	CSF3	1440	P09919	colony stimulating factor 3		687	0.377	0.885	0.38046	0.04		1.0	4	0	2015.0	2019.0
+Ischemic stroke	C0948008	CST3	1471	P01034	cystatin C		370	0.436	0.808	0.0039011	0.04		0.75	4	0	2018.0	2020.0
+Ischemic stroke	C0948008	CYP4A11	1579	Q02928	cytochrome P450 family 4 subfamily A member 11	Enzyme	34	0.695	0.462	1.087e-24	0.04		1.0	4	1	2010.0	2016.0
+Ischemic stroke	C0948008	ENO2	2026	P09104	enolase 2	Enzyme	239	0.475	0.846	0.38396	0.04		1.0	4	0	2015.0	2018.0
+Ischemic stroke	C0948008	F3	2152	P13726	coagulation factor III, tissue factor	Receptor	456	0.415	0.846	0.018872	0.04		1.0	4	1	2001.0	2017.0
+Ischemic stroke	C0948008	FABP4	2167	P15090	fatty acid binding protein 4		194	0.5	0.808	5.1764e-05	0.04		1.0	4	0	2011.0	2018.0
+Ischemic stroke	C0948008	SIRT3	23410	Q9NTG7	sirtuin 3	Epigenetic regulator	227	0.488	0.731	0.00016261	0.04		0.75	4	0	2017.0	2019.0
+Ischemic stroke	C0948008	ALOX15	246	P16050	arachidonate 15-lipoxygenase	Enzyme	205	0.502	0.846	1.1397e-23	0.04		1.0	4	2	2009.0	2019.0
+Ischemic stroke	C0948008	ANGPT1	284	Q15389	angiopoietin 1	Signaling	340	0.446	0.808	0.95208	0.04		1.0	4	0	2014.0	2019.0
+Ischemic stroke	C0948008	NRG1	3084	Q02297	neuregulin 1	Signaling	304	0.464	0.885	0.99665	0.04		1.0	4	0	2010.0	2019.0
+Ischemic stroke	C0948008	HMOX1	3162	P09601	heme oxygenase 1		666	0.381	0.923	0.0096817	0.04		1.0	4	0	2010.0	2018.0
+Ischemic stroke	C0948008	HSPA4	3308	P34932	heat shock protein family A (Hsp70) member 4		550	0.394	0.923	0.99954	0.04		0.75	4	0	2007.0	2019.0
+Ischemic stroke	C0948008	APOC3	345	P02656	apolipoprotein C3		153	0.531	0.731	0.010024	0.04		1.0	4	2	2015.0	2020.0
+Ischemic stroke	C0948008	IFNB1	3456	P01574	interferon beta 1		426	0.421	0.846		0.04		1.0	4	2	2003.0	2020.0
+Ischemic stroke	C0948008	ITGA2B	3674	P08514	integrin subunit alpha 2b		215	0.493	0.692	1.5205e-16	0.04		1.0	4	0	1999.0	2017.0
+Ischemic stroke	C0948008	ITGB3	3690	P05106	integrin subunit beta 3	Receptor	260	0.485	0.846	0.0017189	0.04		0.75	4	3	2012.0	2019.0
+Ischemic stroke	C0948008	MALAT1	378938		metastasis associated lung adenocarcinoma transcript 1		336	0.435	0.846		0.04		0.75	4	1	2017.0	2020.0
+Ischemic stroke	C0948008	KLK1	3816	P06870	kallikrein 1	Enzyme	132	0.533	0.769	0.00015311	0.04		1.0	4	0	2006.0	2019.0
+Ischemic stroke	C0948008	KNG1	3827	P01042	kininogen 1	Enzyme modulator	279	0.481	0.885	3.2071e-10	0.04		1.0	4	1	2015.0	2019.0
+Ischemic stroke	C0948008	LCN2	3934	P80188	lipocalin 2	Enzyme	497	0.405	0.885	1.1404e-09	0.04		1.0	4	0	2018.0	2019.0
+Ischemic stroke	C0948008	LEP	3952	P41159	leptin		931	0.349	0.846	0.46491	0.04		1.0	4	0	2016.0	2019.0
+Ischemic stroke	C0948008	MIR122	406906		microRNA 122		250	0.468	0.808		0.04		0.75	4	1	2016.0	2020.0
+Ischemic stroke	C0948008	MIR143	406935		microRNA 143		267	0.462	0.885		0.04		0.75	4	2	2016.0	2019.0
+Ischemic stroke	C0948008	MIR149	406941		microRNA 149		140	0.524	0.769		0.04		0.25	4	1	2015.0	2018.0
+Ischemic stroke	C0948008	MMP12	4321	P39900	matrix metallopeptidase 12	Enzyme	216	0.484	0.885		0.04		0.75	4	1	2014.0	2018.0
+Ischemic stroke	C0948008	MPO	4353	P05164	myeloperoxidase	Enzyme	653	0.377	0.923	7.105e-15	0.04		1.0	4	1	2017.0	2019.0
+Ischemic stroke	C0948008	COX2	4513	P00403	cytochrome c oxidase subunit II	Enzyme	875	0.352	0.962		0.04		0.75	4	0	1997.0	2019.0
+Ischemic stroke	C0948008	SERPINC1	462	P01008	serpin family C member 1	Enzyme modulator	184	0.507	0.769	0.99892	0.04		1.0	4	0	1989.0	2017.0
+Ischemic stroke	C0948008	NEFL	4747	P07196	neurofilament light		247	0.488	0.769		0.04		1.0	4	0	2018.0	2019.0
+Ischemic stroke	C0948008	NOS2	4843	P35228	nitric oxide synthase 2		783	0.364	0.923	4.0277e-15	0.04		1.0	4	0	2017.0	2019.0
+Ischemic stroke	C0948008	NPY	4852	P01303	neuropeptide Y	Signaling	381	0.447	0.846	0.14294	0.04		1.0	4	1	2007.0	2010.0
+Ischemic stroke	C0948008	PON2	5445	Q15165	paraoxonase 2		117	0.566	0.808	5.4352e-05	0.04		1.0	4	1	2007.0	2017.0
+Ischemic stroke	C0948008	PPARA	5465	Q07869	peroxisome proliferator activated receptor alpha	Nuclear receptor	408	0.432	0.885	0.030182	0.04		1.0	4	1	2013.0	2019.0
+Ischemic stroke	C0948008	CHDH	55349	Q8NE62	choline dehydrogenase	Enzyme	158	0.529	0.769	1.685e-06	0.04		1.0	4	0	2013.0	2019.0
+Ischemic stroke	C0948008	MAPK1	5594	P28482	mitogen-activated protein kinase 1	Kinase	1059	0.33	0.923	0.99698	0.04		1.0	4	0	2009.0	2019.0
+Ischemic stroke	C0948008	REN	5972	P00797	renin	Enzyme	721	0.37	0.923	2.4297e-07	0.04		1.0	4	0	2004.0	2018.0
+Ischemic stroke	C0948008	SPP1	6696	P10451	secreted phosphoprotein 1		824	0.353	0.885	2.146e-06	0.04		1.0	4	0	2013.0	2018.0
+Ischemic stroke	C0948008	TRAF6	7189	Q9Y4K3	TNF receptor associated factor 6	Signaling	254	0.472	0.808	0.99739	0.04		1.0	4	2	2013.0	2017.0
+Ischemic stroke	C0948008	UCP2	7351	P55851	uncoupling protein 2	Transporter	235	0.493	0.808	1.5497e-10	0.04		1.0	4	0	2011.0	2017.0
+Ischemic stroke	C0948008	VKORC1	79001	Q9BQB6	vitamin K epoxide reductase complex subunit 1	Enzyme	89	0.603	0.731	0.16163	0.04		1.0	4	2	2008.0	2016.0
+Ischemic stroke	C0948008	CAV1	857	Q03135	caveolin 1	Enzyme modulator	633	0.388	0.885	0.008274	0.04		1.0	4	0	2017.0	2019.0
+Ischemic stroke	C0948008	CBS	875	P0DN79;P35520	cystathionine beta-synthase	Enzyme	295	0.465	0.885	3.0799e-05	0.04		1.0	4	1	2001.0	2019.0
+Ischemic stroke	C0948008	IL33	90865	O95760	interleukin 33		487	0.409	0.885	8.2925e-10	0.04		1.0	4	4	2013.0	2019.0
+Ischemic stroke	C0948008	GDF15	9518	Q99988	growth differentiation factor 15	Signaling	389	0.429	0.808	3.0133e-07	0.04		1.0	4	1	2017.0	2020.0
+Ischemic stroke	C0948008	CD40	958	P25942	CD40 molecule		528	0.396	0.846	0.84603	0.04		1.0	4	3	2010.0	2019.0
+Ischemic stroke	C0948008	DNM1L	10059	O00429	dynamin 1 like	Enzyme modulator	273	0.475	0.808	0.00056753	0.03		1.0	3	0	2017.0	2018.0
+Ischemic stroke	C0948008	CDK5	1020	Q00535	cyclin dependent kinase 5	Kinase	204	0.495	0.846	0.13892	0.03		1.0	3	0	2017.0	2018.0
+Ischemic stroke	C0948008	TRIB1	10221	Q96RU8	tribbles pseudokinase 1	Kinase	61	0.617	0.577	0.83343	0.03		1.0	3	0	2011.0	2019.0
+Ischemic stroke	C0948008	KLF2	10365	Q9Y5W3	Kruppel like factor 2	Nucleic acid binding	132	0.542	0.692	0.56044	0.03		1.0	3	0	2013.0	2019.0
+Ischemic stroke	C0948008	ADAMTS7	11173	Q9UKP4	ADAM metallopeptidase with thrombospondin type 1 motif 7	Enzyme	40	0.666	0.577	2.2517e-14	0.03		1.0	3	2	2019.0	2019.0
+Ischemic stroke	C0948008	SERPINA3	12	P01011	serpin family A member 3	Enzyme modulator	229	0.486	0.846	8.833e-14	0.03		1.0	3	0	2000.0	2010.0
+Ischemic stroke	C0948008	CX3CR1	1524	P49238	C-X3-C motif chemokine receptor 1	G-protein coupled receptor	310	0.457	0.885	0.061371	0.03		1.0	3	0	2005.0	2019.0
+Ischemic stroke	C0948008	CYBA	1535	P13498	cytochrome b-245 alpha chain		177	0.52	0.769	8.8678e-06	0.03		0.333	3	1	2007.0	2013.0
+Ischemic stroke	C0948008	CYP2C9	1559	P11712	cytochrome P450 family 2 subfamily C member 9		201	0.506	0.885	1.2709e-10	0.03		1.0	3	0	2007.0	2009.0
+Ischemic stroke	C0948008	CYP2J2	1573	P51589	cytochrome P450 family 2 subfamily J member 2		65	0.628	0.615	1.6181e-15	0.03		1.0	3	0	2008.0	2017.0
+Ischemic stroke	C0948008	DPP4	1803	P27487	dipeptidyl peptidase 4	Enzyme	451	0.42	0.808	7.2797e-09	0.03		1.0	3	0	2017.0	2020.0
+Ischemic stroke	C0948008	EDNRB	1910	P24530	endothelin receptor type B	G-protein coupled receptor	300	0.47	0.846	0.0092419	0.03		1.0	3	2	2014.0	2019.0
+Ischemic stroke	C0948008	F2R	2149	P25116	coagulation factor II thrombin receptor	G-protein coupled receptor	347	0.444	0.846	0.0084678	0.03		1.0	3	0	2014.0	2018.0
+Ischemic stroke	C0948008	F11	2160	P03951	coagulation factor XI	Enzyme	100	0.59	0.692	3.6146e-26	0.03		0.667	3	0	2013.0	2018.0
+Ischemic stroke	C0948008	F13A1	2162	P00488	coagulation factor XIII A chain	Enzyme	117	0.575	0.731	5.2851e-08	0.03		1.0	3	3	2002.0	2016.0
+Ischemic stroke	C0948008	FGA	2243	P02671	fibrinogen alpha chain		118	0.573	0.769	1.2236e-13	0.03		0.667	3	3	2008.0	2019.0
+Ischemic stroke	C0948008	SIRT2	22933	Q8IXJ6	sirtuin 2	Epigenetic regulator	172	0.51	0.769	2.3295e-08	0.03		1.0	3	0	2012.0	2018.0
+Ischemic stroke	C0948008	POLDIP2	26073	Q9Y2S7	DNA polymerase delta interacting protein 2		530	0.396	0.923	0.41407	0.03		1.0	3	0	2018.0	2019.0
+Ischemic stroke	C0948008	GRIN2A	2903	Q12879	glutamate ionotropic receptor NMDA type subunit 2A	Ion channel	212	0.522	0.808	0.99998	0.03		1.0	3	0	2017.0	2018.0
+Ischemic stroke	C0948008	GSK3B	2932	P49841	glycogen synthase kinase 3 beta	Kinase	393	0.43	0.846	0.95571	0.03		1.0	3	0	2017.0	2019.0
+Ischemic stroke	C0948008	HFE	3077	Q30201	homeostatic iron regulator		415	0.436	0.846	2.5587e-08	0.03		0.667	3	2	2007.0	2011.0
+Ischemic stroke	C0948008	HLA-DRB1	3123	P01911	major histocompatibility complex, class II, DR beta 1	Immune response	1018	0.333	0.923	0.0010997	0.03		1.0	3	0	2002.0	2019.0
+Ischemic stroke	C0948008	APOA1	335	P02647	apolipoprotein A1		416	0.429	0.885	0.00054909	0.03		1.0	3	1	2016.0	2018.0
+Ischemic stroke	C0948008	IL6R	3570	P08887	interleukin 6 receptor	Signaling	261	0.471	0.846	3.1681e-05	0.03		1.0	3	6	2015.0	2020.0
+Ischemic stroke	C0948008	IL13	3596	P35225	interleukin 13		587	0.386	0.846	0.014426	0.03		1.0	3	0	2018.0	2019.0
+Ischemic stroke	C0948008	LGALS1	3956	P09382	galectin 1	Signaling	362	0.435	0.846	0.004488	0.03		1.0	3	0	2017.0	2018.0
+Ischemic stroke	C0948008	LGALS2	3957	P05162	galectin 2	Signaling	27	0.7	0.385	0.020219	0.03		0.667	3	0	2005.0	2009.0
+Ischemic stroke	C0948008	LIF	3976	P15018	LIF interleukin 6 family cytokine	Signaling	236	0.483	0.769	0.5242	0.03		1.0	3	0	2012.0	2019.0
+Ischemic stroke	C0948008	LTC4S	4056	Q16873	leukotriene C4 synthase	Enzyme	50	0.647	0.731	0.00084628	0.03		1.0	3	1	2009.0	2012.0
+Ischemic stroke	C0948008	MIR130A	406919		microRNA 130a		141	0.522	0.808		0.03		1.0	3	0	2016.0	2019.0
+Ischemic stroke	C0948008	MIR137	406928		microRNA 137		171	0.513	0.846		0.03		1.0	3	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR155	406947		microRNA 155		584	0.384	0.885		0.03		1.0	3	1	2016.0	2020.0
+Ischemic stroke	C0948008	MIR19A	406979		microRNA 19a		151	0.512	0.808		0.03		1.0	3	0	2018.0	2019.0
+Ischemic stroke	C0948008	MIR21	406991		microRNA 21		726	0.363	0.846		0.03		1.0	3	1	2017.0	2018.0
+Ischemic stroke	C0948008	MIR210	406992		microRNA 210		277	0.46	0.846		0.03		1.0	3	0	2016.0	2018.0
+Ischemic stroke	C0948008	MIR30A	407029		microRNA 30a		218	0.478	0.808		0.03		1.0	3	0	2013.0	2018.0
+Ischemic stroke	C0948008	MAP3K5	4217	Q99683	mitogen-activated protein kinase kinase kinase 5	Kinase	170	0.513	0.808	0.51964	0.03		1.0	3	0	2017.0	2018.0
+Ischemic stroke	C0948008	MIF	4282	P14174	macrophage migration inhibitory factor		455	0.412	0.885	0.012262	0.03		1.0	3	0	2017.0	2019.0
+Ischemic stroke	C0948008	MMP8	4317	P22894	matrix metallopeptidase 8	Enzyme	213	0.488	0.808	1.0661e-24	0.03		1.0	3	1	2018.0	2019.0
+Ischemic stroke	C0948008	MMP10	4319	P09238	matrix metallopeptidase 10	Enzyme	123	0.553	0.808	5.907e-15	0.03		1.0	3	0	2011.0	2019.0
+Ischemic stroke	C0948008	COX1	4512	P00395	cytochrome c oxidase subunit I	Enzyme	421	0.441	0.885		0.03		0.667	3	0	2010.0	2019.0
+Ischemic stroke	C0948008	NOS1	4842	P29475	nitric oxide synthase 1		521	0.408	0.885	1.0	0.03		1.0	3	3	2014.0	2018.0
+Ischemic stroke	C0948008	P2RY1	5028	P47900	purinergic receptor P2Y1	G-protein coupled receptor	126	0.551	0.769	0.51522	0.03		1.0	3	0	2017.0	2017.0
+Ischemic stroke	C0948008	ANGPTL4	51129	Q9BY76	angiopoietin like 4	Signaling	198	0.498	0.731	2.3089e-11	0.03		0.667	3	0	2016.0	2018.0
+Ischemic stroke	C0948008	TNFRSF12A	51330	Q9NP84	TNF receptor superfamily member 12A		173	0.509	0.692	0.017995	0.03		1.0	3	0	2007.0	2010.0
+Ischemic stroke	C0948008	RNLS	55328	Q5VYX0	renalase, FAD dependent amine oxidase		32	0.678	0.423	3.796e-06	0.03		1.0	3	2	2013.0	2018.0
+Ischemic stroke	C0948008	MEG3	55384		maternally expressed 3		239	0.471	0.846		0.03		1.0	3	2	2017.0	2019.0
+Ischemic stroke	C0948008	SELENOS	55829	Q9BQE4	selenoprotein S		55	0.628	0.615	1.4301e-09	0.03		1.0	3	2	2007.0	2015.0
+Ischemic stroke	C0948008	PTX3	5806	P26022	pentraxin 3		296	0.457	0.808	6.9827e-05	0.03		1.0	3	0	2017.0	2018.0
+Ischemic stroke	C0948008	BCL2	596	P10415	BCL2 apoptosis regulator	Signaling	1456	0.291	0.885	0.55903	0.03		1.0	3	0	2012.0	2019.0
+Ischemic stroke	C0948008	S100B	6285	P04271	S100 calcium binding protein B	Calcium-binding protein	599	0.383	0.923	0.04387	0.03		1.0	3	1	2017.0	2018.0
+Ischemic stroke	C0948008	ACSM3	6296	Q53FZ2	acyl-CoA synthetase medium chain family member 3	Enzyme	69	0.623	0.615	1.441e-14	0.03		1.0	3	0	2019.0	2019.0
+Ischemic stroke	C0948008	CCL11	6356	P51671	C-C motif chemokine ligand 11	Signaling	250	0.473	0.885	0.010211	0.03		1.0	3	0	2014.0	2017.0
+Ischemic stroke	C0948008	SELPLG	6404	Q14242	selectin P ligand		113	0.564	0.692	0.1768	0.03		1.0	3	1	2007.0	2016.0
+Ischemic stroke	C0948008	SLC1A2	6506	P43004	solute carrier family 1 member 2	Transporter	208	0.511	0.731	0.71036	0.03		1.0	3	0	2014.0	2019.0
+Ischemic stroke	C0948008	SLC25A1	6576	P53007	solute carrier family 25 member 1	Transporter	168	0.553	0.731	0.058829	0.03		1.0	3	0	2017.0	2020.0
+Ischemic stroke	C0948008	BSG	682	P35613	basigin (Ok blood group)		287	0.458	0.769	2.5873e-05	0.03		1.0	3	0	2017.0	2019.0
+Ischemic stroke	C0948008	CCR2	729230	P41597	C-C motif chemokine receptor 2		436	0.418	0.846	0.023412	0.03		1.0	3	1	2014.0	2019.0
+Ischemic stroke	C0948008	XBP1	7494	P17861	X-box binding protein 1		234	0.477	0.846	0.032014	0.03		1.0	3	0	2010.0	2019.0
+Ischemic stroke	C0948008	XRCC1	7515	P18887	X-ray repair cross complementing 1		410	0.421	0.923	6.3386e-09	0.03		1.0	3	1	2006.0	2016.0
+Ischemic stroke	C0948008	CAD	790	P27708	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	Enzyme	249	0.482	0.846	0.99993	0.03		1.0	3	0	2013.0	2018.0
+Ischemic stroke	C0948008	SNHG12	85028	Q9BXW3	small nucleolar RNA host gene 12		50	0.628	0.538		0.03		1.0	3	0	2018.0	2019.0
+Ischemic stroke	C0948008	TP63	8626	Q9H3D4	tumor protein p63	Transcription factor	816	0.362	0.769	0.99728	0.03		1.0	3	0	2017.0	2019.0
+Ischemic stroke	C0948008	SOCS1	8651	O15524	suppressor of cytokine signaling 1	Enzyme modulator	315	0.445	0.808	0.58544	0.03		1.0	3	0	2016.0	2020.0
+Ischemic stroke	C0948008	KCNK17	89822	Q96T54	potassium two pore domain channel subfamily K member 17	Ion channel	13	0.78	0.269	4.1781e-06	0.03		1.0	3	2	2010.0	2014.0
+Ischemic stroke	C0948008	NTN1	9423	O95631	netrin 1	Enzyme modulator	209	0.509	0.846	0.99687	0.03		1.0	3	0	2017.0	2019.0
+Ischemic stroke	C0948008	ROCK2	9475	O75116	Rho associated coiled-coil containing protein kinase 2	Kinase	154	0.529	0.808	1.0	0.03		1.0	3	2	2018.0	2019.0
+Ischemic stroke	C0948008	PTGES	9536	O14684	prostaglandin E synthase		150	0.54	0.769	0.71317	0.03		0.667	3	1	2009.0	2017.0
+Ischemic stroke	C0948008	CD40LG	959	P29965	CD40 ligand	Signaling	453	0.414	0.846	0.72079	0.03		1.0	3	0	2012.0	2019.0
+Ischemic stroke	C0948008	CELSR1	9620	Q9NYQ6	cadherin EGF LAG seven-pass G-type receptor 1	G-protein coupled receptor	30	0.7	0.5	0.99994	0.03		1.0	3	2	2009.0	2015.0
+Ischemic stroke	C0948008	ARHGEF10	9639	O15013	Rho guanine nucleotide exchange factor 10	Enzyme	29	0.729	0.577	6.7739e-30	0.03		1.0	3	4	2011.0	2017.0
+Ischemic stroke	C0948008	MIR874	100126343		microRNA 874		53	0.628	0.577		0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	OCLN	100506658	Q16625	occludin		195	0.507	0.846	8.5583e-07	0.02		1.0	2	0	2017.0	2017.0
+Ischemic stroke	C0948008	MIR499B	100616134		microRNA 499b		15	0.76	0.269		0.02		1.0	2	1	2015.0	2019.0
+Ischemic stroke	C0948008	PPIF	10105	P30405	peptidylprolyl isomerase F		78	0.593	0.692	0.0019919	0.02		1.0	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	PGR-AS1	101054525		PGR antisense RNA 1		172	0.514	0.808		0.02		1.0	2	0	2004.0	2017.0
+Ischemic stroke	C0948008	NAMPT	10135	P43490	nicotinamide phosphoribosyltransferase	Signaling	199	0.502	0.808	0.97914	0.02		1.0	2	0	2014.0	2016.0
+Ischemic stroke	C0948008	CBSL	102724560	P0DN79;P35520	cystathionine beta-synthase like		129	0.54	0.808		0.02		1.0	2	0	2006.0	2019.0
+Ischemic stroke	C0948008	AHSA1	10598	O95433	activator of HSP90 ATPase activity 1		526	0.396	0.923	0.99896	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	SLC17A3	10786	O00476	solute carrier family 17 member 3	Transporter	21	0.769	0.385	4.9259e-22	0.02		1.0	2	1	2014.0	2016.0
+Ischemic stroke	C0948008	HPSE	10855	Q9Y251	heparanase	Enzyme	393	0.425	0.808	2.266e-14	0.02		0.5	2	0	2017.0	2017.0
+Ischemic stroke	C0948008	RUVBL2	10856	Q9Y230	RuvB like AAA ATPase 2		23	0.743	0.385	0.99992	0.02		1.0	2	2	2009.0	2011.0
+Ischemic stroke	C0948008	CHI3L1	1116	P36222	chitinase 3 like 1		420	0.419	0.885	1.1133e-05	0.02		1.0	2	0	2012.0	2016.0
+Ischemic stroke	C0948008	HSPA12B	116835	Q96MM6	heat shock protein family A (Hsp70) member 12B		16	0.751	0.269	0.00045299	0.02		1.0	2	0	2013.0	2018.0
+Ischemic stroke	C0948008	ADD1	118	P35611	adducin 1	Cellular structure	67	0.612	0.615	0.9883	0.02		1.0	2	0	2011.0	2013.0
+Ischemic stroke	C0948008	RBM45	129831	Q8IUH3	RNA binding motif protein 45		557	0.383	0.846	2.1132e-10	0.02		1.0	2	0	2002.0	2016.0
+Ischemic stroke	C0948008	ADM	133	P35318	adrenomedullin	Signaling	405	0.436	0.808	0.040831	0.02		1.0	2	0	2012.0	2014.0
+Ischemic stroke	C0948008	CPOX	1371	P36551	coproporphyrinogen oxidase	Enzyme	246	0.488	0.846	0.17152	0.02		1.0	2	0	2016.0	2019.0
+Ischemic stroke	C0948008	CRK	1398	P46108	CRK proto-oncogene, adaptor protein		544	0.394	0.923	0.95936	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	MAPK14	1432	Q16539	mitogen-activated protein kinase 14	Kinase	626	0.379	0.923	0.37466	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	CTLA4	1493	P16410	cytotoxic T-lymphocyte associated protein 4		722	0.369	0.923	0.94085	0.02		1.0	2	0	2009.0	2019.0
+Ischemic stroke	C0948008	ADRA2B	151	P18089	adrenoceptor alpha 2B	G-protein coupled receptor	296	0.465	0.846	4.4533e-06	0.02		1.0	2	0	2013.0	2015.0
+Ischemic stroke	C0948008	ADRB2	154	P07550	adrenoceptor beta 2	G-protein coupled receptor	387	0.442	0.923	0.52545	0.02		1.0	2	1	2007.0	2019.0
+Ischemic stroke	C0948008	CYP1A1	1543	P04798	cytochrome P450 family 1 subfamily A member 1	Enzyme	379	0.436	0.846	1.0635e-17	0.02		1.0	2	2	2013.0	2016.0
+Ischemic stroke	C0948008	CYP2B6	1555	P20813	cytochrome P450 family 2 subfamily B member 6		388	0.428	0.846	1.9303e-10	0.02		1.0	2	0	2014.0	2016.0
+Ischemic stroke	C0948008	CYP2C8	1558	P10632	cytochrome P450 family 2 subfamily C member 8		73	0.615	0.615	1.9759e-22	0.02		1.0	2	1	2008.0	2015.0
+Ischemic stroke	C0948008	CYP3A4	1576	P08684	cytochrome P450 family 3 subfamily A member 4	Enzyme	291	0.462	0.885	5.7979e-11	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	CYP3A5	1577	P20815	cytochrome P450 family 3 subfamily A member 5	Enzyme	179	0.511	0.846	6.2948e-17	0.02		1.0	2	1	2015.0	2019.0
+Ischemic stroke	C0948008	NQO1	1728	P15559	NAD(P)H quinone dehydrogenase 1		368	0.434	0.885	1.1867e-09	0.02		1.0	2	0	2010.0	2017.0
+Ischemic stroke	C0948008	AGTR2	186	P50052	angiotensin II receptor type 2	G-protein coupled receptor	229	0.496	0.808	0.0082345	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	APLNR	187	P35414	apelin receptor	G-protein coupled receptor	94	0.588	0.692	0.78907	0.02		1.0	2	1	2017.0	2017.0
+Ischemic stroke	C0948008	ECE1	1889	P42892	endothelin converting enzyme 1	Enzyme	157	0.541	0.769	0.95987	0.02		1.0	2	1	2013.0	2014.0
+Ischemic stroke	C0948008	EDNRA	1909	P25101	endothelin receptor type A	G-protein coupled receptor	427	0.426	0.885	0.99158	0.02		1.0	2	2	2014.0	2015.0
+Ischemic stroke	C0948008	EGR1	1958	P18146	early growth response 1	Nucleic acid binding	378	0.433	0.923	0.3509	0.02		1.0	2	0	2015.0	2017.0
+Ischemic stroke	C0948008	AHSG	197	P02765	alpha 2-HS glycoprotein	Enzyme modulator	204	0.506	0.846	3.209e-10	0.02		1.0	2	1	2009.0	2013.0
+Ischemic stroke	C0948008	MLKL	197259	Q8NB16	mixed lineage kinase domain like pseudokinase	Kinase	93	0.57	0.731	2.0931e-14	0.02		1.0	2	0	2019.0	2019.0
+Ischemic stroke	C0948008	EPHA4	2043	P54764	EPH receptor A4	Kinase	118	0.566	0.846	1.0	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	EPHB2	2048	P29323	EPH receptor B2	Kinase	649	0.374	0.846	0.99997	0.02		1.0	2	0	2009.0	2019.0
+Ischemic stroke	C0948008	ESR2	2100	Q92731	estrogen receptor 2	Nuclear receptor	528	0.4	0.923	4.4516e-08	0.02		1.0	2	3	2012.0	2016.0
+Ischemic stroke	C0948008	ALB	213	P02768	albumin	Transporter	1198	0.317	0.962	0.64329	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	EZH2	2146	Q15910	enhancer of zeste 2 polycomb repressive complex 2 subunit	Epigenetic regulator	653	0.376	0.885	1.0	0.02		1.0	2	0	2013.0	2019.0
+Ischemic stroke	C0948008	F12	2161	P00748	coagulation factor XII	Enzyme	87	0.612	0.577	8.2526e-08	0.02		1.0	2	0	2004.0	2019.0
+Ischemic stroke	C0948008	FCGR2A	2212	P12318	Fc fragment of IgG receptor IIa	Cell adhesion	227	0.48	0.769	2.0054e-06	0.02		1.0	2	0	2009.0	2010.0
+Ischemic stroke	C0948008	FGFR4	2264	P22455	fibroblast growth factor receptor 4	Kinase	220	0.49	0.769	7.1917e-13	0.02		1.0	2	1	2012.0	2014.0
+Ischemic stroke	C0948008	FGG	2266	P02679	fibrinogen gamma chain	Signaling	70	0.633	0.615	0.04963	0.02		1.0	2	0	2008.0	2008.0
+Ischemic stroke	C0948008	DKK1	22943	O94907	dickkopf WNT signaling pathway inhibitor 1		372	0.439	0.885	0.17423	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	RCOR1	23186	Q9UKL0	REST corepressor 1		36	0.678	0.577	0.99992	0.02		1.0	2	0	2012.0	2018.0
+Ischemic stroke	C0948008	SNHG1	23642		small nucleolar RNA host gene 1		83	0.576	0.692		0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	ALOX12	239	P18054	arachidonate 12-lipoxygenase, 12S type	Enzyme	119	0.558	0.692	1.4397e-15	0.02		1.0	2	1	2009.0	2011.0
+Ischemic stroke	C0948008	POU2F3	25833	Q9UKI9	POU class 2 homeobox 3		56	0.626	0.731	1.0299e-06	0.02		1.0	2	1	2002.0	2014.0
+Ischemic stroke	C0948008	RNF19A	25897	Q9NV58	ring finger protein 19A, RBR E3 ubiquitin protein ligase	Enzyme	523	0.397	0.923	0.025305	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	GCG	2641	P01275	glucagon		441	0.431	0.885	0.034814	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	GFAP	2670	P14136	glial fibrillary acidic protein		447	0.421	0.885	1.4601e-06	0.02		1.0	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	GJA4	2701	P35212	gap junction protein alpha 4	Cell-cell junction	39	0.663	0.5	0.055777	0.02		1.0	2	2	2011.0	2012.0
+Ischemic stroke	C0948008	IL37	27178	Q9NZH6	interleukin 37		280	0.459	0.846	0.00012343	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	ANGPTL3	27329	Q9Y5C1	angiopoietin like 3	Signaling	81	0.584	0.577	1.6455e-13	0.02		1.0	2	1	2011.0	2018.0
+Ischemic stroke	C0948008	GLP1R	2740	P43220	glucagon like peptide 1 receptor	G-protein coupled receptor	288	0.471	0.846	0.29347	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	GPER1	2852	Q99527	G protein-coupled estrogen receptor 1	G-protein coupled receptor	180	0.505	0.731	0.57434	0.02		1.0	2	0	2018.0	2018.0
+Ischemic stroke	C0948008	GRIA2	2891	P42262	glutamate ionotropic receptor AMPA type subunit 2	Ion channel	110	0.573	0.692	0.99916	0.02		1.0	2	0	2005.0	2012.0
+Ischemic stroke	C0948008	GRIN1	2902	Q05586	glutamate ionotropic receptor NMDA type subunit 1	Ion channel	150	0.561	0.692	0.97629	0.02		1.0	2	0	2015.0	2017.0
+Ischemic stroke	C0948008	NR3C1	2908	P04150	nuclear receptor subfamily 3 group C member 1	Nuclear receptor	590	0.393	0.885	0.96958	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	CXCL2	2920	P19875	C-X-C motif chemokine ligand 2	Signaling	186	0.513	0.885	3.6079e-07	0.02		1.0	2	0	2013.0	2019.0
+Ischemic stroke	C0948008	HABP2	3026	Q14520	hyaluronan binding protein 2	Enzyme	88	0.593	0.615	1.9637e-15	0.02		1.0	2	0	2012.0	2017.0
+Ischemic stroke	C0948008	HDAC2	3066	Q92769	histone deacetylase 2	Epigenetic regulator	257	0.476	0.846	0.99997	0.02		1.0	2	0	2020.0	2020.0
+Ischemic stroke	C0948008	CFH	3075	P08603	complement factor H		393	0.441	0.885	0.86061	0.02		1.0	2	1	2008.0	2012.0
+Ischemic stroke	C0948008	HGF	3082	P14210	hepatocyte growth factor	Enzyme	671	0.374	0.885	0.99947	0.02		1.0	2	0	2018.0	2020.0
+Ischemic stroke	C0948008	HSPA1A	3303	P0DMV8;P0DMV9	heat shock protein family A (Hsp70) member 1A		229	0.486	0.769	0.030228	0.02		1.0	2	0	2007.0	2017.0
+Ischemic stroke	C0948008	HSPA1B	3304	P0DMV8;P0DMV9	heat shock protein family A (Hsp70) member 1B		251	0.474	0.808	0.0053464	0.02		1.0	2	0	2007.0	2017.0
+Ischemic stroke	C0948008	HSPB1	3315	P04792	heat shock protein family B (small) member 1		395	0.436	0.808	2.7797e-07	0.02		1.0	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	HSPB2	3316	Q16082	heat shock protein family B (small) member 2		290	0.457	0.769	0.00032989	0.02		1.0	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	IFNG	3458	P01579	interferon gamma		1519	0.288	0.962	0.47156	0.02		1.0	2	0	2018.0	2018.0
+Ischemic stroke	C0948008	APOH	350	P02749	apolipoprotein H		121	0.563	0.769	1.5614e-15	0.02		1.0	2	0	2009.0	2019.0
+Ischemic stroke	C0948008	IL9	3578	P15248	interleukin 9		291	0.461	0.846	8.1087e-07	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	IL15	3600	P40933	interleukin 15		426	0.422	0.846	0.70859	0.02		1.0	2	0	2017.0	2018.0
+Ischemic stroke	C0948008	IMPA2	3613	O14732	inositol monophosphatase 2	Enzyme	26	0.695	0.385	0.0010588	0.02		1.0	2	2	2010.0	2016.0
+Ischemic stroke	C0948008	AQP9	366	O43315	aquaporin 9	Ion channel	100	0.565	0.808	0.24027	0.02		1.0	2	0	2017.0	2018.0
+Ischemic stroke	C0948008	IRF4	3662	Q15306	interferon regulatory factor 4	Transcription factor	203	0.491	0.769	0.85677	0.02		1.0	2	0	2014.0	2018.0
+Ischemic stroke	C0948008	AR	367	P10275	androgen receptor	Nuclear receptor	854	0.351	0.846	0.98837	0.02		1.0	2	0	2008.0	2019.0
+Ischemic stroke	C0948008	JUN	3725	P05412	Jun proto-oncogene, AP-1 transcription factor subunit	Transcription factor	344	0.442	0.885	0.05962	0.02		1.0	2	0	2017.0	2018.0
+Ischemic stroke	C0948008	KCNJ13	3769	O60928	potassium inwardly rectifying channel subfamily J member 13	Ion channel	59	0.659	0.308	0.013685	0.02		1.0	2	0	2016.0	2017.0
+Ischemic stroke	C0948008	KCNQ1	3784	P51787	potassium voltage-gated channel subfamily Q member 1	Ion channel	281	0.485	0.769	4.5453e-08	0.02		1.0	2	0	2015.0	2019.0
+Ischemic stroke	C0948008	ARG1	383	P05089	arginase 1	Enzyme	273	0.476	0.846	0.00035944	0.02		1.0	2	0	2016.0	2019.0
+Ischemic stroke	C0948008	FADS1	3992	O60427	fatty acid desaturase 1		125	0.582	0.769	0.37384	0.02		1.0	2	2	2014.0	2015.0
+Ischemic stroke	C0948008	LLGL2	3993	Q6P1M3	LLGL scribble cell polarity complex component 2	Transporter	23	0.769	0.192	2.8797e-12	0.02		1.0	2	2	2009.0	2011.0
+Ischemic stroke	C0948008	LTA4H	4048	P09960	leukotriene A4 hydrolase		63	0.617	0.654	2.9568e-08	0.02		1.0	2	1	2008.0	2012.0
+Ischemic stroke	C0948008	MIR106B	406900		microRNA 106b		143	0.523	0.808		0.02		1.0	2	0	2017.0	2018.0
+Ischemic stroke	C0948008	MIR107	406901		microRNA 107		123	0.543	0.769		0.02		1.0	2	0	2014.0	2015.0
+Ischemic stroke	C0948008	MIR125A	406910		microRNA 125a		225	0.48	0.769		0.02		1.0	2	1	2016.0	2017.0
+Ischemic stroke	C0948008	MIR132	406921		microRNA 132		222	0.485	0.846		0.02		1.0	2	0	2018.0	2020.0
+Ischemic stroke	C0948008	MIR134	406924		microRNA 134		126	0.542	0.769		0.02		1.0	2	0	2017.0	2018.0
+Ischemic stroke	C0948008	MIR150	406942		microRNA 150		282	0.455	0.808		0.02		1.0	2	0	2016.0	2019.0
+Ischemic stroke	C0948008	MIR15A	406948		microRNA 15a		221	0.482	0.808		0.02		1.0	2	0	2017.0	2017.0
+Ischemic stroke	C0948008	MIR181C	406957		microRNA 181c		103	0.555	0.769		0.02		1.0	2	0	2019.0	2020.0
+Ischemic stroke	C0948008	MIR27B	407019		microRNA 27b		141	0.529	0.769		0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	MIR29B1	407024		microRNA 29b-1		212	0.485	0.846		0.02		1.0	2	0	2015.0	2018.0
+Ischemic stroke	C0948008	MIR29B2	407025		microRNA 29b-2		214	0.484	0.885		0.02		1.0	2	0	2015.0	2018.0
+Ischemic stroke	C0948008	MIR17HG	407975	Q75NE6	miR-17-92a-1 cluster host gene		224	0.483	0.808		0.02		1.0	2	0	2019.0	2019.0
+Ischemic stroke	C0948008	TNFSF12-TNFSF13	407977	O43508	TNFSF12-TNFSF13 readthrough		91	0.579	0.615	0.76997	0.02		1.0	2	0	2008.0	2010.0
+Ischemic stroke	C0948008	ARSA	410	P15289	arylsulfatase A	Enzyme	376	0.448	0.923	1.0893e-11	0.02		1.0	2	1	2017.0	2018.0
+Ischemic stroke	C0948008	MIP	4284	P30301	major intrinsic protein of lens fiber	Ion channel	181	0.507	0.846	0.030956	0.02		1.0	2	0	1999.0	2019.0
+Ischemic stroke	C0948008	ACHE	43	P22303	acetylcholinesterase (Cartwright blood group)	Enzyme	418	0.445	0.885	0.99827	0.02		1.0	2	0	2018.0	2020.0
+Ischemic stroke	C0948008	MMP7	4316	P09237	matrix metallopeptidase 7	Enzyme	320	0.446	0.885	1.0404e-09	0.02		1.0	2	0	2015.0	2019.0
+Ischemic stroke	C0948008	MIR335	442904		microRNA 335		141	0.521	0.808		0.02		1.0	2	0	2016.0	2019.0
+Ischemic stroke	C0948008	MTR	4548	Q99707	5-methyltetrahydrofolate-homocysteine methyltransferase		245	0.482	0.808	2.4301e-12	0.02		1.0	2	1	2001.0	2007.0
+Ischemic stroke	C0948008	MTRR	4552	Q9UBK8	5-methyltetrahydrofolate-homocysteine methyltransferase reductase		207	0.502	0.808	2.1794e-14	0.02		1.0	2	0	2011.0	2019.0
+Ischemic stroke	C0948008	NUBP1	4682	P53384	nucleotide binding protein 1		25	0.743	0.231	8.7342e-14	0.02		1.0	2	0	2017.0	2017.0
+Ischemic stroke	C0948008	ATM	472	Q13315	ATM serine/threonine kinase	Kinase	684	0.374	0.885	5.5884e-47	0.02		1.0	2	0	2004.0	2017.0
+Ischemic stroke	C0948008	NGFR	4804	P08138	nerve growth factor receptor	Receptor	256	0.477	0.846	0.097889	0.02		1.0	2	2	2018.0	2018.0
+Ischemic stroke	C0948008	NOTCH1	4851	P46531	notch receptor 1		693	0.369	0.885	1.0	0.02		1.0	2	0	2015.0	2019.0
+Ischemic stroke	C0948008	NPPA	4878	P01160	natriuretic peptide A		217	0.505	0.769	0.00054522	0.02		1.0	2	0	2001.0	2014.0
+Ischemic stroke	C0948008	NPR3	4883	P17342	natriuretic peptide receptor 3		83	0.633	0.615	1.006e-05	0.02		1.0	2	1	2012.0	2013.0
+Ischemic stroke	C0948008	NTF3	4908	P20783	neurotrophin 3	Signaling	170	0.519	0.808	0.93201	0.02		1.0	2	0	2012.0	2019.0
+Ischemic stroke	C0948008	DUOX2	50506	Q9NRD8	dual oxidase 2	Enzyme	150	0.533	0.769	4.5032e-56	0.02		1.0	2	0	2013.0	2019.0
+Ischemic stroke	C0948008	CKLF	51192	Q9UBR5	chemokine like factor		36	0.682	0.538	0.0049483	0.02		1.0	2	0	2019.0	2019.0
+Ischemic stroke	C0948008	CLEC1B	51266	Q9P126	C-type lectin domain family 1 member B		58	0.65	0.615	4.9365e-08	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	PDE4A	5141	P27815	phosphodiesterase 4A		168	0.523	0.846	0.98167	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	SIRT6	51548	Q8N6T7	sirtuin 6	Epigenetic regulator	195	0.496	0.846	0.039119	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	SERPINF1	5176	P36955	serpin family F member 1	Enzyme modulator	294	0.46	0.846	7.8044e-08	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	PIN1	5300	Q13526	peptidylprolyl cis/trans isomerase, NIMA-interacting 1		212	0.488	0.769	0.74031	0.02		1.0	2	0	2015.0	2018.0
+Ischemic stroke	C0948008	PLA2G1B	5319	P04054	phospholipase A2 group IB	Enzyme	268	0.468	0.846	1.0057e-10	0.02		1.0	2	0	2003.0	2014.0
+Ischemic stroke	C0948008	PLA2G2A	5320	P14555	phospholipase A2 group IIA	Enzyme	215	0.488	0.808	0.097278	0.02		1.0	2	0	2003.0	2014.0
+Ischemic stroke	C0948008	PLAU	5328	P00749	plasminogen activator, urokinase	Enzyme	439	0.425	0.923	2.3058e-06	0.02		1.0	2	0	2014.0	2019.0
+Ischemic stroke	C0948008	SERPINF2	5345	P08697	serpin family F member 2	Enzyme modulator	104	0.575	0.808	0.013624	0.02		1.0	2	1	2017.0	2019.0
+Ischemic stroke	C0948008	DUOX1	53905	Q9NRD9	dual oxidase 1	Enzyme	97	0.57	0.692	6.2238e-33	0.02		1.0	2	0	2013.0	2019.0
+Ischemic stroke	C0948008	PPARD	5467	Q03181	peroxisome proliferator activated receptor delta	Nuclear receptor	197	0.513	0.846	0.99497	0.02		1.0	2	0	2013.0	2015.0
+Ischemic stroke	C0948008	PPID	5481	Q08752	peptidylprolyl isomerase D		72	0.603	0.692	1.9309e-09	0.02		1.0	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	TUG1	55000		taurine up-regulated 1		134	0.522	0.769		0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	MARCHF1	55016	Q8TCQ1	membrane associated ring-CH-type finger 1		126	0.54	0.808	0.0086782	0.02		1.0	2	0	2018.0	2018.0
+Ischemic stroke	C0948008	MAPK8	5599	P45983	mitogen-activated protein kinase 8	Kinase	520	0.397	0.885	0.99823	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	PROS1	5627	P07225	protein S		283	0.467	0.846	0.00047089	0.02		1.0	2	0	1994.0	2015.0
+Ischemic stroke	C0948008	PSMA6	5687	P60900	proteasome 20S subunit alpha 6		43	0.653	0.654	0.98619	0.02		0.5	2	1	2009.0	2013.0
+Ischemic stroke	C0948008	ACKR3	57007	P25106	atypical chemokine receptor 3	G-protein coupled receptor	400	0.428	0.885	0.39134	0.02		1.0	2	0	2015.0	2018.0
+Ischemic stroke	C0948008	PTEN	5728	P60484	phosphatase and tensin homolog	Enzyme	1349	0.305	0.923	0.25651	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	PTGIS	5740	Q16647	prostaglandin I2 synthase		70	0.617	0.654	1.197e-09	0.02		1.0	2	1	2009.0	2011.0
+Ischemic stroke	C0948008	MIR494	574452		microRNA 494		131	0.531	0.692		0.02		1.0	2	0	2019.0	2020.0
+Ischemic stroke	C0948008	NGB	58157	Q9NPG2	neuroglobin	Transporter	56	0.631	0.462	0.0045474	0.02		1.0	2	0	2008.0	2018.0
+Ischemic stroke	C0948008	CXCL16	58191	Q9H2A7	C-X-C motif chemokine ligand 16	Signaling	178	0.502	0.769	3.4546e-05	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	RAC1	5879	P63000	Rac family small GTPase 1	Enzyme modulator	415	0.429	0.962	0.76228	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	MOK	5891	Q9UQ07	MOK protein kinase	Kinase	251	0.476	0.769	8.8397e-22	0.02		1.0	2	1	2013.0	2016.0
+Ischemic stroke	C0948008	ACE2	59272	Q9BYF1	angiotensin I converting enzyme 2	Enzyme	253	0.477	0.769	0.99769	0.02		1.0	2	3	2013.0	2014.0
+Ischemic stroke	C0948008	RBP4	5950	P02753	retinol binding protein 4	Transporter	217	0.493	0.808	0.51951	0.02		0.5	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	BCL2A1	597	Q16548	BCL2 related protein A1	Signaling	150	0.529	0.731	0.20785	0.02		1.0	2	0	2019.0	2019.0
+Ischemic stroke	C0948008	RELA	5970	Q04206	RELA proto-oncogene, NF-kB subunit	Transcription factor	483	0.406	0.885	0.99948	0.02		1.0	2	0	2015.0	2019.0
+Ischemic stroke	C0948008	HPSE2	60495	Q8WWQ2	heparanase 2 (inactive)	Enzyme	81	0.588	0.692	0.00015083	0.02		0.0	2	0	2005.0	2017.0
+Ischemic stroke	C0948008	GAS5	60674		growth arrest specific 5		184	0.497	0.808		0.02		0.5	2	1	2018.0	2018.0
+Ischemic stroke	C0948008	SGK1	6446	O00141	serum/glucocorticoid regulated kinase 1	Kinase	188	0.506	0.769	0.0023046	0.02		1.0	2	2	2011.0	2019.0
+Ischemic stroke	C0948008	RTN4R	65078	Q9BZR6	reticulon 4 receptor		75	0.595	0.692	0.95882	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	SLC5A2	6524	P31639	solute carrier family 5 member 2	Transporter	214	0.499	0.769	4.9184e-14	0.02		1.0	2	0	2017.0	2019.0
+Ischemic stroke	C0948008	SLC9A1	6548	P19634	solute carrier family 9 member A1	Transporter	144	0.55	0.731	0.79049	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	SLC12A2	6558	P55011	solute carrier family 12 member 2	Transporter	128	0.552	0.808	0.96153	0.02		1.0	2	0	2019.0	2019.0
+Ischemic stroke	C0948008	SST	6750	P61278	somatostatin	Signaling	535	0.399	0.885	0.34128	0.02		1.0	2	0	2017.0	2018.0
+Ischemic stroke	C0948008	STC1	6781	P52823	stanniocalcin 1	Signaling	137	0.532	0.731	0.20364	0.02		0.5	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	SULT1E1	6783	P49888	sulfotransferase family 1E member 1		171	0.508	0.808	1.9701e-07	0.02		1.0	2	0	2012.0	2019.0
+Ischemic stroke	C0948008	SYK	6850	P43405	spleen associated tyrosine kinase	Kinase	229	0.475	0.808	0.99986	0.02		1.0	2	0	2019.0	2019.0
+Ischemic stroke	C0948008	TBXAS1	6916	P24557	thromboxane A synthase 1		77	0.619	0.615	1.4088e-20	0.02		1.0	2	2	2009.0	2018.0
+Ischemic stroke	C0948008	HNF1A	6927	P20823	HNF1 homeobox A	Nucleic acid binding	292	0.478	0.846	0.96115	0.02		1.0	2	3	2016.0	2017.0
+Ischemic stroke	C0948008	TGFA	7039	P01135	transforming growth factor alpha	Signaling	376	0.432	0.885	0.71981	0.02		1.0	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	TSPO	706	P30536	translocator protein		341	0.444	0.885	0.00027398	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	TIMP2	7077	P16035	TIMP metallopeptidase inhibitor 2	Enzyme modulator	404	0.425	0.846	0.78893	0.02		1.0	2	0	2009.0	2018.0
+Ischemic stroke	C0948008	TLR2	7097	O60603	toll like receptor 2		749	0.361	0.923	1.0152e-06	0.02		1.0	2	1	2012.0	2019.0
+Ischemic stroke	C0948008	TNFSF4	7292	P23510	TNF superfamily member 4	Signaling	129	0.54	0.808	0.049378	0.02		1.0	2	1	2009.0	2019.0
+Ischemic stroke	C0948008	TXN	7295	P10599	thioredoxin		338	0.447	0.885	0.20119	0.02		1.0	2	0	2017.0	2018.0
+Ischemic stroke	C0948008	VCAM1	7412	P19320	vascular cell adhesion molecule 1		406	0.422	0.808	0.79791	0.02		1.0	2	0	2007.0	2018.0
+Ischemic stroke	C0948008	TRPV1	7442	Q8NER1	transient receptor potential cation channel subfamily V member 1	Ion channel	404	0.446	0.885	1.0103e-16	0.02		1.0	2	0	2017.0	2017.0
+Ischemic stroke	C0948008	CACNA1A	773	O00555	calcium voltage-gated channel subunit alpha1 A	Ion channel	320	0.489	0.769	1.0	0.02		1.0	2	0	2018.0	2018.0
+Ischemic stroke	C0948008	CXCR4	7852	P61073	C-X-C motif chemokine receptor 4	G-protein coupled receptor	739	0.362	0.923	0.017804	0.02		1.0	2	0	2018.0	2018.0
+Ischemic stroke	C0948008	AIMP2	7965	Q13155	aminoacyl tRNA synthetase complex interacting multifunctional protein 2		555	0.393	0.923	0.008024	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	NEIL1	79661	Q96FI4	nei like DNA glycosylase 1		59	0.623	0.769	4.9641e-07	0.02		1.0	2	0	2015.0	2019.0
+Ischemic stroke	C0948008	NR4A3	8013	Q92570	nuclear receptor subfamily 4 group A member 3	Nuclear receptor	186	0.502	0.808	0.9126	0.02		1.0	2	1	2002.0	2018.0
+Ischemic stroke	C0948008	PDGFD	80310	Q9GZP0	platelet derived growth factor D	Signaling	94	0.579	0.538	0.0017145	0.02		1.0	2	1	2008.0	2016.0
+Ischemic stroke	C0948008	COASY	80347	Q13057	Coenzyme A synthase	Enzyme	125	0.551	0.654	8.0903e-10	0.02		1.0	2	0	2017.0	2017.0
+Ischemic stroke	C0948008	COL18A1	80781	P39060	collagen type XVIII alpha 1 chain		323	0.449	0.808	1.7414e-10	0.02		1.0	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	PLA2G6	8398	O60733	phospholipase A2 group VI	Enzyme modulator	350	0.476	0.846	2.4837e-10	0.02		1.0	2	0	2003.0	2014.0
+Ischemic stroke	C0948008	ULK1	8408	O75385	unc-51 like autophagy activating kinase 1	Kinase	99	0.564	0.769	0.99318	0.02		1.0	2	0	2016.0	2018.0
+Ischemic stroke	C0948008	TSLP	85480	Q969D9	thymic stromal lymphopoietin		220	0.486	0.808	0.0040357	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	BECN1	8678	Q14457	beclin 1	Enzyme modulator	373	0.432	0.846	0.93717	0.02		1.0	2	0	2017.0	2017.0
+Ischemic stroke	C0948008	RIPK1	8737	Q13546	receptor interacting serine/threonine kinase 1	Kinase	250	0.479	0.769	0.0079441	0.02		1.0	2	0	2019.0	2019.0
+Ischemic stroke	C0948008	TNFSF12	8742	O43508	TNF superfamily member 12		123	0.556	0.769	0.76997	0.02		1.0	2	0	2008.0	2010.0
+Ischemic stroke	C0948008	HSPB3	8988	Q12988	heat shock protein family B (small) member 3		327	0.448	0.769	6.0944e-05	0.02		1.0	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	MCU	90550	Q8NE86	mitochondrial calcium uniporter	Ion channel	45	0.67	0.577	0.83258	0.02		1.0	2	0	2018.0	2018.0
+Ischemic stroke	C0948008	TIMD4	91937	Q96H15	T cell immunoglobulin and mucin domain containing 4		49	0.644	0.654	2.6444e-10	0.02		1.0	2	1	2018.0	2018.0
+Ischemic stroke	C0948008	SLC33A1	9197	O00400	solute carrier family 33 member 1	Transporter	170	0.529	0.769	9.8902e-05	0.02		1.0	2	0	2004.0	2017.0
+Ischemic stroke	C0948008	CD14	929	P08571	CD14 molecule		551	0.392	0.885	4.8813e-05	0.02		1.0	2	1	2006.0	2017.0
+Ischemic stroke	C0948008	COX5A	9377	P20674	cytochrome c oxidase subunit 5A	Enzyme	171	0.515	0.846	0.49407	0.02		1.0	2	0	2016.0	2019.0
+Ischemic stroke	C0948008	GRAP2	9402	O75791	GRB2 related adaptor protein 2		538	0.394	0.923	0.00015256	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	ABCG2	9429	Q9UNQ0	ATP binding cassette subfamily G member 2 (Junior blood group)	Transporter	420	0.419	0.885	2.0957e-32	0.02		1.0	2	1	2009.0	2018.0
+Ischemic stroke	C0948008	GSTO1	9446	P78417	glutathione S-transferase omega 1		136	0.541	0.769	5.0916e-09	0.02		0.5	2	0	2009.0	2019.0
+Ischemic stroke	C0948008	AIM2	9447	O14862	absent in melanoma 2		167	0.521	0.769	2.1942e-09	0.02		1.0	2	0	2019.0	2020.0
+Ischemic stroke	C0948008	EIF2AK3	9451	Q9NZJ5	eukaryotic translation initiation factor 2 alpha kinase 3	Kinase	231	0.501	0.808	0.0027603	0.02		1.0	2	0	2017.0	2020.0
+Ischemic stroke	C0948008	CARTPT	9607	Q16568	CART prepropeptide		115	0.576	0.692	0.093729	0.02		1.0	2	0	2009.0	2018.0
+Ischemic stroke	C0948008	ABCG1	9619	P45844	ATP binding cassette subfamily G member 1	Transporter	118	0.56	0.692	0.11182	0.02		1.0	2	2	2015.0	2019.0
+Ischemic stroke	C0948008	CD69	969	Q07108	CD69 molecule		206	0.488	0.923	0.029691	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	SEMA3E	9723	O15041	semaphorin 3E	Signaling	184	0.515	0.769	8.7148e-09	0.02		1.0	2	0	2018.0	2019.0
+Ischemic stroke	C0948008	MAFB	9935	Q9Y5Q3	MAF bZIP transcription factor B	Transcription factor	135	0.565	0.731	0.90304	0.02		1.0	2	0	2015.0	2017.0
+Ischemic stroke	C0948008	CDC42	998	P60953	cell division cycle 42	Enzyme modulator	327	0.458	0.846	0.78728	0.02		1.0	2	0	2013.0	2019.0
+Ischemic stroke	C0948008	ZGLP1	100125288	P0C6A0	zinc finger GATA like protein 1		186	0.512	0.808	0.3868	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR298	100126296		microRNA 298		20	0.729	0.346		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR922	100126321		microRNA 922		8	0.821	0.231		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	KIR2DS2	100132285	P43631	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 2		69	0.599	0.615		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	DEFB4B	100289462	O15263	defensin beta 4B		166	0.51	0.769	0.067977	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	MIR1306	100302197		microRNA 1306		17	0.736	0.308		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR1203	100302211		microRNA 1203		6	0.89	0.231		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MIR664A	100302234		microRNA 664a		43	0.644	0.538		0.01		0.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HOTTIP	100316868		HOXA distal transcript antisense RNA		90	0.575	0.654		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR4437	100616213		microRNA 4437		1	1.0	0.077		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR4669	100616236		microRNA 4669		3	0.89	0.154		0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	MIR4656	100616465		microRNA 4656		8	0.821	0.231		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	NR1H3	10062	Q13133	nuclear receptor subfamily 1 group H member 3	Nuclear receptor	102	0.566	0.692	0.90374	0.01		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	EDIL3	10085	O43854	EGF like repeats and discoidin domains 3	Enzyme	104	0.564	0.769	0.00014584	0.01		1.0	1	0	2008.0	2008.0
+Ischemic stroke	C0948008	PTCSC3	100886964		papillary thyroid carcinoma susceptibility candidate 3		23	0.722	0.385		0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	CDH13	1012	P55290	cadherin 13		205	0.501	0.846	0.0007058	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	EBI3	10148	Q14213	Epstein-Barr virus induced 3	Signaling	233	0.474	0.808	0.10797	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	EMSLR	101927746		E2F1 mRNA stabilizing lncRNA		30	0.695	0.5		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	LOC101929707	101929707		uncharacterized LOC101929707		1	1.0	0.077		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CDKN3	1033	Q16667	cyclin dependent kinase inhibitor 3		150	0.514	0.769	0.0019455	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	IRF9	10379	Q00978	interferon regulatory factor 9	Transcription factor	60	0.61	0.577	0.60773	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	ERICD	104355217		E2F1-regulated inhibitor of cell death		36	0.691	0.654		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ATG7	10533	O95352	autophagy related 7	Enzyme	179	0.505	0.769	7.3758e-12	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	AGR2	10551	O95994	anterior gradient 2, protein disulphide isomerase family member	Enzyme	108	0.556	0.692	9.2381e-08	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	GNLY	10578	P22749	granulysin		88	0.584	0.692	9.6899e-09	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	SORBS1	10580	Q9BX66	sorbin and SH3 domain containing 1		124	0.554	0.769	1.534e-12	0.01		1.0	1	1	2008.0	2008.0
+Ischemic stroke	C0948008	CAMKK2	10645	Q96RR4	calcium/calmodulin dependent protein kinase kinase 2	Kinase	62	0.617	0.654	0.091625	0.01		1.0	1	1	2012.0	2012.0
+Ischemic stroke	C0948008	CXCR6	10663	O00574	C-X-C motif chemokine receptor 6	G-protein coupled receptor	325	0.448	0.885	5.7212e-05	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	MASP2	10747	O00187	mannan binding lectin serine peptidase 2	Enzyme	86	0.582	0.692	3.0428e-14	0.01		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	TRAF3IP2	10758	O43734	TRAF3 interacting protein 2		103	0.585	0.692	1.615e-09	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	NES	10763	P48681	nestin		302	0.45	0.808	1.6236e-06	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PLK2	10769	Q9NYY3	polo like kinase 2	Kinase	97	0.575	0.808	0.9999	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ALDH1L1	10840	O75891	aldehyde dehydrogenase 1 family member L1	Enzyme	49	0.663	0.615	1.4114e-11	0.01		1.0	1	1	2014.0	2014.0
+Ischemic stroke	C0948008	LILRB1	10859	Q8NHL6	leukocyte immunoglobulin like receptor B1	Receptor	168	0.51	0.769	5.6502e-14	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	RNPS1	10921	Q15287	RNA binding protein with serine rich domain 1	Nucleic acid binding	23	0.722	0.5	0.9798	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	FASTK	10922	Q14296	Fas activated serine/threonine kinase	Kinase	65	0.617	0.615	0.0047199	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PDIA5	10954	Q14554	protein disulfide isomerase family A member 5		15	0.805	0.346	1.1464e-09	0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	STIP1	10963	P31948	stress induced phosphoprotein 1		85	0.578	0.692	0.99987	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	COPS5	10987	Q92905	COP9 signalosome subunit 5	Enzyme	101	0.566	0.769	0.99925	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	RIPK3	11035	Q9Y572	receptor interacting serine/threonine kinase 3	Kinase	196	0.497	0.885	1.1874e-14	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	LOC110673971	110673971		CYP11B2 promoter		5	0.89	0.269		0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	DUSP14	11072	O95147	dual specificity phosphatase 14		13	0.78	0.308	0.12114	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CAPN10	11132	Q9HC96	calpain 10	Enzyme	58	0.621	0.577	6.9206e-13	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	CHIT1	1118	Q13231	chitinase 1		142	0.525	0.692	7.1716e-16	0.01		1.0	1	0	2007.0	2007.0
+Ischemic stroke	C0948008	TREX1	11277	Q9NSU2	three prime repair exonuclease 1		241	0.517	0.808	0.57528	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	PARK7	11315	Q99497	Parkinsonism associated deglycase	Enzyme	161	0.535	0.808	0.75335	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	VSIG4	11326	Q9Y279	V-set and immunoglobulin domain containing 4		51	0.628	0.615	1.4953e-09	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	ACOT7	11332	O00154	acyl-CoA thioesterase 7	Enzyme	146	0.531	0.769	0.75926	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	MGLL	11343	Q99685	monoglyceride lipase	Enzyme	125	0.564	0.731	0.020016	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CHRNA4	1137	P43681	cholinergic receptor nicotinic alpha 4 subunit	Ion channel	248	0.492	0.808	8.5474e-05	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TRIM9	114088	Q9C026	tripartite motif containing 9		24	0.705	0.5	0.99973	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CIRBP	1153	Q14011	cold inducible RNA binding protein	Nucleic acid binding	72	0.592	0.731	0.33636	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	H3P7	115482683		H3 histone pseudogene 7		28	0.686	0.538		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ADCYAP1	116	P18509	adenylate cyclase activating polypeptide 1	Signaling	220	0.51	0.846	0.52424	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	LRG1	116844	P02750	leucine rich alpha-2-glycoprotein 1		109	0.564	0.731	0.095143	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CYP2R1	120227	Q6VVX0	cytochrome P450 family 2 subfamily R member 1		139	0.563	0.731	3.793e-10	0.01		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	ACOT4	122970	Q8N9L9	acyl-CoA thioesterase 4		1	1.0	0.077	1.0412e-08	0.01		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	CCR5	1234	P51681	C-C motif chemokine receptor 5 (gene/pseudogene)	G-protein coupled receptor	508	0.398	0.885	4.3094e-10	0.01		1.0	1	0	2009.0	2009.0
+Ischemic stroke	C0948008	FOPNL	123811	Q96NB1	FGFR1OP N-terminal like		15	0.76	0.462	1.8256e-06	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	TAF8	129685	Q7Z7C8	TATA-box binding protein associated factor 8		18	0.751	0.423	7.3155e-13	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	UBR3	130507	Q6ZT12	ubiquitin protein ligase E3 component n-recognin 3		3	0.89	0.115	1.0	0.01		1.0	1	1	2010.0	2010.0
+Ischemic stroke	C0948008	COMT	1312	P21964	catechol-O-methyltransferase	Enzyme	622	0.4	0.923	1.1377e-06	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	CRHR1	1394	P34998	corticotropin releasing hormone receptor 1		183	0.517	0.769	3.7856e-05	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	CRMP1	1400	Q14194	collapsin response mediator protein 1	Enzyme	148	0.525	0.808	0.99173	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	DEFB104A	140596	Q8WTQ1	defensin beta 104A		43	0.638	0.692	0.093748	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	TRPM6	140803	Q9BX84	transient receptor potential cation channel subfamily M member 6	Kinase	48	0.656	0.538	2.719e-10	0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	SRXN1	140809	Q9BYN0	sulfiredoxin 1		18	0.751	0.385	0.069723	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	CRYZ	1429	Q08257	crystallin zeta		145	0.524	0.731	5.6616e-23	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	CSF2	1437	P04141	colony stimulating factor 2	Signaling	1028	0.33	0.962	0.83468	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TTC7B	145567	Q86TV6	tetratricopeptide repeat domain 7B		7	0.861	0.154	0.99998	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	ADRA1A	148	P35348	adrenoceptor alpha 1A	G-protein coupled receptor	294	0.462	0.846	3.3722e-07	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	CILP2	148113	Q8IUL8	cartilage intermediate layer protein 2		15	0.76	0.346	8.0314e-08	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	NKX2-5	1482	P52952	NK2 homeobox 5	Transcription factor	165	0.533	0.692	0.94531	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HJV	148738	Q6ZVN8	hemojuvelin BMP co-receptor		71	0.621	0.654	0.0042363	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CTNNB1	1499	P35222	catenin beta 1		1368	0.303	0.885	0.99999	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ADRA2A	150	P08913	adrenoceptor alpha 2A	G-protein coupled receptor	102	0.578	0.615	0.00081816	0.01		0.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	ARL6IP6	151188	Q8N6S5	ADP ribosylation factor like GTPase 6 interacting protein 6		36	0.686	0.615	0.018099	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	RMDN2	151393	Q96LZ7	regulator of microtubule dynamics 2		137	0.531	0.769	4.4061e-24	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ADRA2C	152	P18825	adrenoceptor alpha 2C	G-protein coupled receptor	40	0.682	0.346	0.50159	0.01		0.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	ADRB1	153	P08588	adrenoceptor beta 1	G-protein coupled receptor	130	0.555	0.769	2.8786e-06	0.01		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	C5orf38	153571	Q86SI9	chromosome 5 open reading frame 38		1	1.0	0.077	0.0017218	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CYP2B7P	1556		cytochrome P450 family 2 subfamily B member 7, pseudogene		16	0.76	0.385		0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	CYP2D6	1565	P10635	cytochrome P450 family 2 subfamily D member 6		432	0.437	0.885	1.0793e-25	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CYP2E1	1571	P05181	cytochrome P450 family 2 subfamily E member 1		306	0.459	0.885	8.0688e-09	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	CYP24A1	1591	Q07973	cytochrome P450 family 24 subfamily A member 1	Enzyme	171	0.518	0.692	3.1964e-23	0.01		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	DECR1	1666	Q16698	2,4-dienoyl-CoA reductase 1	Enzyme	399	0.426	0.885	4.4689e-14	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	DEFB1	1672	P60022	defensin beta 1		177	0.509	0.808	0.4059	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	DEFB4A	1673	O15263	defensin beta 4A		177	0.507	0.769	0.0011637	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	DLD	1738	P09622	dihydrolipoamide dehydrogenase	Enzyme	190	0.517	0.769	0.0095142	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	DLG2	1740	Q15700	discs large MAGUK scaffold protein 2	Receptor	44	0.67	0.577	0.70796	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	DVL1	1855	O14640	dishevelled segment polarity protein 1	Signaling	181	0.531	0.769	3.7313e-06	0.01		1.0	1	0	2001.0	2001.0
+Ischemic stroke	C0948008	EDN2	1907	P20800	endothelin 2	Signaling	32	0.716	0.462	0.060323	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	EDN3	1908	P14138	endothelin 3	Signaling	107	0.608	0.577	0.024568	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	EEF1A1	1915	P68104	eukaryotic translation elongation factor 1 alpha 1	Enzyme	88	0.584	0.654	0.97863	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	EFNB2	1948	P52799	ephrin B2	Signaling	109	0.561	0.692	0.98845	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CELSR2	1952	Q9HCU4	cadherin EGF LAG seven-pass G-type receptor 2	G-protein coupled receptor	63	0.656	0.577	0.99994	0.01		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	EGR2	1959	P11161	early growth response 2	Nucleic acid binding	133	0.547	0.769	0.50292	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	EGR4	1961	Q05215	early growth response 4	Nucleic acid binding	17	0.751	0.538	0.0063486	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	RMST	196475		rhabdomyosarcoma 2 associated transcript		19	0.769	0.385		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	A2M	2	P01023	alpha-2-macroglobulin	Enzyme modulator	147	0.529	0.769	4.5229e-11	0.01		1.0	1	0	2007.0	2007.0
+Ischemic stroke	C0948008	ELK1	2002	P19419	ETS transcription factor ELK1	Transcription factor	114	0.537	0.692	0.93711	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	EPAS1	2034	Q99814	endothelial PAS domain protein 1	Transcription factor	293	0.454	0.731	0.5961	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ERCC4	2072	Q92889	ERCC excision repair 4, endonuclease catalytic subunit	Enzyme	325	0.468	0.846	1.3758e-12	0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	ETS1	2113	P14921	ETS proto-oncogene 1, transcription factor	Transcription factor	327	0.444	0.731	0.7816	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ETV3	2117	P41162	ETS variant transcription factor 3	Transcription factor	36	0.67	0.577	0.97596	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ABCD1	215	P33897	ATP binding cassette subfamily D member 1	Transporter	154	0.563	0.731	0.99896	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	F7	2155	P08709	coagulation factor VII	Enzyme	99	0.623	0.615	1.349e-05	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	F8	2157	P00451	coagulation factor VIII	Enzyme	149	0.542	0.769	1.0	0.01		1.0	1	0	2008.0	2008.0
+Ischemic stroke	C0948008	F9	2158	P00740	coagulation factor IX	Enzyme	276	0.465	0.885	0.99776	0.01		0.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	FBLN1	2192	P23142	fibulin 1		83	0.587	0.654	0.91878	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	FCGR3A	2214	P08637	Fc fragment of IgG receptor IIIa	Cell adhesion	352	0.432	0.962	3.6955e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	FCGR3B	2215	O75015	Fc fragment of IgG receptor IIIb	Cell adhesion	291	0.452	0.962	3.0294e-07	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	FCN1	2219	O00602	ficolin 1	Signaling	43	0.647	0.577	3.9675e-17	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	FGF1	2246	P05230	fibroblast growth factor 1	Signaling	184	0.507	0.846	0.44406	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	FGF2	2247	P09038	fibroblast growth factor 2	Signaling	635	0.383	0.923	0.0184	0.01		1.0	1	0	2005.0	2005.0
+Ischemic stroke	C0948008	ABCD2	225	Q9UBJ2	ATP binding cassette subfamily D member 2	Transporter	25	0.711	0.5	4.7079e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	FGF13	2258	Q92913	fibroblast growth factor 13	Signaling	167	0.514	0.808	0.89489	0.01		1.0	1	0	2005.0	2005.0
+Ischemic stroke	C0948008	VEGFD	2277	O43915	vascular endothelial growth factor D	Signaling	132	0.538	0.769	2.498e-05	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MRAS	22808	O14807	muscle RAS oncogene homolog	Enzyme modulator	113	0.59	0.731	0.92111	0.01		1.0	1	3	2019.0	2019.0
+Ischemic stroke	C0948008	VASH1	22846	Q7L8A9	vasohibin 1		69	0.601	0.423	0.32566	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	NTNG1	22854	Q9Y2I2	netrin G1	Enzyme modulator	64	0.65	0.423	0.9167	0.01		1.0	1	1	2013.0	2013.0
+Ischemic stroke	C0948008	CARD8	22900	Q9Y2G2	caspase recruitment domain family member 8		78	0.59	0.731	1.7672e-06	0.01		1.0	1	1	2014.0	2014.0
+Ischemic stroke	C0948008	ATF6	22926	P18850	activating transcription factor 6		179	0.516	0.846	3.2333e-07	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	FOXF2	2295	Q12947	forkhead box F2		57	0.621	0.5	0.84666	0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	FAIM2	23017	Q9BWQ8	Fas apoptotic inhibitory molecule 2		48	0.663	0.5	8.7012e-05	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	FOXO3	2309	O43524	forkhead box O3		381	0.431	0.808	0.98806	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MCF2L2	23101	Q86YR7	MCF.2 cell line derived transforming sequence-like 2	Signaling	60	0.628	0.577	1.1565e-24	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	FLG	2312	P20930	filaggrin	Cellular structure	173	0.525	0.846	0.00028793	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	TBC1D9	23158	Q6ZT07	TBC1 domain family member 9	Enzyme	491	0.399	0.846	2.8039e-05	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	MLC1	23209	Q15049	modulator of VRAC current 1	Ion channel	87	0.585	0.769	3.2425e-08	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ARC	23237	Q7LC44	activity regulated cytoskeleton associated protein		101	0.573	0.769	0.59433	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CLEC16A	23274	Q2KHT3	C-type lectin domain containing 16A		67	0.612	0.654	0.27595	0.01		1.0	1	1	2010.0	2010.0
+Ischemic stroke	C0948008	FMO3	2328	P31513	flavin containing dimethylaniline monoxygenase 3	Enzyme	51	0.638	0.5	6.5145e-16	0.01		1.0	1	2	2013.0	2013.0
+Ischemic stroke	C0948008	CRTC1	23373	Q6UUV9	CREB regulated transcription coactivator 1	Transcription factor	115	0.565	0.692	0.531	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	NCS1	23413	P62166	neuronal calcium sensor 1		48	0.656	0.615	0.66434	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	TRS-AGA2-3	23437		tRNA-Ser (anticodon AGA) 2-3		21	0.743	0.385		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	FOLH1	2346	Q04609	folate hydrolase 1	Enzyme	311	0.453	0.885	6.1977e-09	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	SPIDR	23514	Q14159	scaffold protein involved in DNA repair		37	0.7	0.538	2.3847e-17	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	FOS	2353	P01100	Fos proto-oncogene, AP-1 transcription factor subunit	Transcription factor	528	0.411	0.885	0.26176	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MMD	23531	Q15546	monocyte to macrophage differentiation associated	Receptor	58	0.647	0.577	0.0001344	0.01		1.0	1	0	2009.0	2009.0
+Ischemic stroke	C0948008	MAPK8IP2	23542	Q13387	mitogen-activated protein kinase 8 interacting protein 2	Signaling	51	0.628	0.654	0.99997	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PADI4	23569	Q9UM07	peptidyl arginine deiminase 4		196	0.494	0.808	4.6001e-16	0.01		1.0	1	1	2013.0	2013.0
+Ischemic stroke	C0948008	SMUG1	23583	Q53HV7	single-strand-selective monofunctional uracil-DNA glycosylase 1		1034	0.322	0.923	0.00045154	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	DAPK2	23604	Q9UIK4	death associated protein kinase 2	Kinase	130	0.536	0.692	5.0088e-10	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PLA2G15	23659	Q8NCC3	phospholipase A2 group XV	Enzyme	170	0.52	0.769	0.37838	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	BCL2L13	23786	Q9BXK5	BCL2 like 13		18	0.78	0.308	0.0024411	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ABCA4	24	P78363	ATP binding cassette subfamily A member 4	Transporter	227	0.493	0.769	5.3499e-48	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	PANX1	24145	Q96RD7	pannexin 1	Ion channel	107	0.575	0.846	2.4684e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	G6PD	2539	P11413	glucose-6-phosphate dehydrogenase	Enzyme	410	0.424	0.846	0.97158	0.01		0.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	PRDX5	25824	P30044	peroxiredoxin 5		153	0.522	0.808	0.00017921	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HECTD1	25831	Q9ULT8	HECT domain E3 ubiquitin protein ligase 1		14	0.751	0.385	1.0	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	GALNT2	2590	Q10471	polypeptide N-acetylgalactosaminyltransferase 2	Enzyme	45	0.678	0.538	0.0084175	0.01		1.0	1	1	2010.0	2010.0
+Ischemic stroke	C0948008	HSPA12A	259217	O43301	heat shock protein family A (Hsp70) member 12A		41	0.67	0.346	0.98436	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	FAM98A	25940	Q8NCA5	family with sequence similarity 98 member A		10	0.805	0.231	0.54728	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	GAP43	2596	P17677	growth associated protein 43		109	0.564	0.731	0.021461	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	IS1	260402		Adolescent idiopathic scoliosis		83	0.593	0.615		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	COPD	260431		Pulmonary disease, chronic obstructive, severe early-onset		349	0.456	0.885		0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	GATA1	2623	P15976	GATA binding protein 1		264	0.483	0.808	0.94798	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	GATA3	2625	P23771	GATA binding protein 3		429	0.415	0.846	0.89887	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	GCH1	2643	P30793	GTP cyclohydrolase 1	Enzyme	254	0.511	0.846	0.90292	0.01		1.0	1	1	2011.0	2011.0
+Ischemic stroke	C0948008	GCKR	2646	Q14397	glucokinase regulator		136	0.604	0.615	8.5354e-19	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	SLC17A5	26503	Q9NRA2	solute carrier family 17 member 5	Transporter	252	0.491	0.808	6.8514e-10	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	NPAS4	266743	Q8IUM7	neuronal PAS domain protein 4	Transcription factor	36	0.695	0.5	0.97335	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	GEM	2669	P55040	GTP binding protein overexpressed in skeletal muscle		251	0.467	0.769	1.179e-08	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HAVCR1	26762	Q96D42	hepatitis A virus cellular receptor 1		217	0.489	0.885	8.5105e-07	0.01		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	GGCX	2677	P38435	gamma-glutamyl carboxylase		56	0.678	0.538	2.0199e-14	0.01		1.0	1	0	2007.0	2007.0
+Ischemic stroke	C0948008	GHRH	2691	P01286	growth hormone releasing hormone	Signaling	176	0.503	0.769	0.14964	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	GJA1	2697	P17302	gap junction protein alpha 1	Cell-cell junction	662	0.393	0.885	0.15523	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NAAA	27163	Q02083	N-acylethanolamine acid amidase	Enzyme	90	0.579	0.692	2.0742e-10	0.01		0.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	IL17B	27190	Q9UHF5	interleukin 17B		116	0.553	0.769	0.033631	0.01		1.0	1	0	2009.0	2009.0
+Ischemic stroke	C0948008	GCLC	2729	P48506	glutamate-cysteine ligase catalytic subunit	Enzyme	198	0.509	0.885	0.42718	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	STK39	27347	Q9UEW8	serine/threonine kinase 39	Kinase	38	0.67	0.5	0.99916	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	GLI2	2736	P10070	GLI family zinc finger 2		351	0.446	0.846	0.97303	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	HTRA2	27429	O43464	HtrA serine peptidase 2		151	0.542	0.692	0.0035755	0.01		0.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	GNAS	2778	O95467;P63092;P84996;Q5JWF2	GNAS complex locus	Enzyme modulator	536	0.42	0.885	0.68076	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	GNB3	2784	P16520	G protein subunit beta 3	Enzyme	192	0.518	0.808	3.3303e-11	0.01		0.0	1	1	2005.0	2005.0
+Ischemic stroke	C0948008	GOT2	2806	P00505	glutamic-oxaloacetic transaminase 2		148	0.529	0.731	0.014233	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	GPI	2821	P06744	glucose-6-phosphate isomerase	Enzyme	218	0.491	0.769	2.8385e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	H19	283120		H19 imprinted maternally expressed transcript		242	0.494	0.923		0.01		1.0	1	3	2017.0	2017.0
+Ischemic stroke	C0948008	ANGPT2	285	O15123	angiopoietin 2	Signaling	457	0.41	0.846	0.83208	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	SNHG15	285958		small nucleolar RNA host gene 15		48	0.633	0.615		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ANK1	286	P16157	ankyrin 1		166	0.54	0.885	1.0	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	XKR6	286046	Q5GH73	XK related 6		25	0.729	0.538	0.99934	0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	GPR37	2861	O15354	G protein-coupled receptor 37	G-protein coupled receptor	23	0.716	0.385	0.00033812	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	GPR42	2866	O15529	G protein-coupled receptor 42 (gene/pseudogene)	G-protein coupled receptor	255	0.475	0.846	0.050905	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	GPT	2875	P24298	glutamic--pyruvic transaminase	Enzyme	511	0.403	0.923	3.5945e-19	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	GPX1	2876	P07203	glutathione peroxidase 1	Enzyme	290	0.458	0.923	3.8518e-05	0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	REM1	28954	O75628	RRAD and GEM like GTPase 1		177	0.531	0.885	5.3363e-08	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	GRN	2896	P28799	granulin precursor		412	0.435	0.846	0.069666	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	GRIK2	2898	Q13002	glutamate ionotropic receptor kainate type subunit 2	Ion channel	130	0.561	0.769	0.99841	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	ANPEP	290	P15144	alanyl aminopeptidase, membrane	Enzyme	280	0.462	0.769	3.7492e-09	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	GRIN2B	2904	Q13224	glutamate ionotropic receptor NMDA type subunit 2B	Ion channel	249	0.51	0.692	1.0	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	GRIN2C	2905	Q14957	glutamate ionotropic receptor NMDA type subunit 2C	Ion channel	11	0.792	0.269	2.3053e-07	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	GRINA	2907	Q7Z429	glutamate ionotropic receptor NMDA type subunit associated protein 1		15	0.76	0.346	0.44203	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SETD2	29072	Q9BYW2	SET domain containing 2, histone lysine methyltransferase	Epigenetic regulator	447	0.424	0.846	1.0	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	GRM1	2911	Q13255	glutamate metabotropic receptor 1	G-protein coupled receptor	172	0.528	0.808	0.14279	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	GRM2	2912	Q14416	glutamate metabotropic receptor 2	G-protein coupled receptor	104	0.582	0.577	0.12019	0.01		1.0	1	0	2005.0	2005.0
+Ischemic stroke	C0948008	CXCL1	2919	P09341	C-X-C motif chemokine ligand 1	Signaling	315	0.449	0.923	0.11845	0.01		1.0	1	1	2013.0	2013.0
+Ischemic stroke	C0948008	GSTM1	2944	P09488	glutathione S-transferase mu 1		627	0.38	0.923	0.0020641	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	GSTT1	2952	P30711	glutathione S-transferase theta 1		541	0.393	0.923	0.00014834	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	UBQLN1	29979	Q9UMX0	ubiquilin 1		49	0.65	0.423	0.99884	0.01		0.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	NOP53	29997	Q9NZM5	NOP53 ribosome biogenesis factor		69	0.597	0.577	0.18147	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ANXA1	301	P04083	annexin A1		336	0.442	0.885	1.2009e-07	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	HADHA	3030	P40939	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha	Enzyme	154	0.569	0.769	4.4354e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	HCRT	3060	O43612	hypocretin neuropeptide precursor		237	0.5	0.808	0.028774	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	HDLBP	3069	Q00341	high density lipoprotein binding protein		58	0.636	0.731	1.0	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HK2	3099	P52789	hexokinase 2	Kinase	152	0.515	0.769	0.0045893	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ACACA	31	Q13085	acetyl-CoA carboxylase alpha		241	0.48	0.846	1.0	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HLA-B	3106	P01889	major histocompatibility complex, class I, B		706	0.379	0.885	3.8642e-05	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HLA-C	3107	P10321	major histocompatibility complex, class I, C		435	0.415	0.846	1.5695e-06	0.01		0.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	HLA-DQB1	3119	P01920	major histocompatibility complex, class II, DQ beta 1	Immune response	504	0.407	0.885	0.0089259	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HLA-G	3135	P17693	major histocompatibility complex, class I, G		279	0.461	0.769	1.365e-11	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	AOC2	314	O75106	amine oxidase copper containing 2		37	0.674	0.654	3.2599e-15	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	NR4A1	3164	P22736	nuclear receptor subfamily 4 group A member 1	Nuclear receptor	216	0.49	0.731	0.37074	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HP	3240	P00738	haptoglobin	Enzyme	464	0.412	0.885	1.736e-05	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MMAB	326625	Q96EY8	metabolism of cobalamin associated B	Enzyme	46	0.695	0.538	0.0041291	0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	SERPINA9	327657	Q86WD7	serpin family A member 9	Enzyme modulator	14	0.769	0.231	1.2106e-13	0.01		1.0	1	0	2008.0	2008.0
+Ischemic stroke	C0948008	HES1	3280	Q14469	hes family bHLH transcription factor 1	Transcription factor	243	0.468	0.885	0.7072	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	BIRC5	332	O15392	baculoviral IAP repeat containing 5	Enzyme modulator	199	0.495	0.731	0.055854	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	HSPG2	3339	P98160	heparan sulfate proteoglycan 2	Enzyme modulator	405	0.438	0.885	1.0376e-19	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	HTR1A	3350	P08908	5-hydroxytryptamine receptor 1A	G-protein coupled receptor	229	0.522	0.846	0.19956	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	HTR2A	3356	P28223	5-hydroxytryptamine receptor 2A	G-protein coupled receptor	289	0.473	0.846	0.51124	0.01		1.0	1	1	2006.0	2006.0
+Ischemic stroke	C0948008	FFAR4	338557	Q5NUL3	free fatty acid receptor 4		67	0.621	0.577	1.3634e-05	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	C1QTNF9	338872	P0C862	C1q and TNF related 9		30	0.695	0.385	1.1372e-05	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ID2	3398	Q02363	inhibitor of DNA binding 2	Transcription factor	92	0.572	0.731	0.66939	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	IFIT3	3437	O14879	interferon induced protein with tetratricopeptide repeats 3		51	0.628	0.731	0.11732	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ACTBL2	345651	Q562R1	actin beta like 2		134	0.539	0.769	5.8166e-16	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	APOD	347	P05090	apolipoprotein D		89	0.584	0.577	0.00054449	0.01		1.0	1	1	2014.0	2014.0
+Ischemic stroke	C0948008	MAGEB5	347541	Q9BZ81	MAGE family member B5		2	0.931	0.115		0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	IGF1R	3480	P08069	insulin like growth factor 1 receptor	Kinase	556	0.399	0.885	0.96799	0.01		1.0	1	1	2008.0	2008.0
+Ischemic stroke	C0948008	IGFBP3	3486	P17936	insulin like growth factor binding protein 3	Enzyme modulator	350	0.439	0.808	0.91029	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	IKBKB	3551	O14920	inhibitor of nuclear factor kappa B kinase subunit beta	Kinase	191	0.506	0.846	0.99192	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	IL2	3558	P60568	interleukin 2		950	0.336	0.885	0.47968	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	IL4R	3566	P24394	interleukin 4 receptor	Receptor	242	0.474	0.846	0.00023013	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	IL5	3567	P05113	interleukin 5		359	0.437	0.846	0.0056529	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	IL7R	3575	P16871	interleukin 7 receptor	Receptor	231	0.487	0.769	3.763e-07	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	AQP1	358	P29972	aquaporin 1 (Colton blood group)	Ion channel	268	0.467	0.885	2.5697e-07	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	IL10RA	3587	Q13651	interleukin 10 receptor subunit alpha	Receptor	90	0.579	0.692	0.017808	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	IL10RB	3588	Q08334	interleukin 10 receptor subunit beta	Receptor	50	0.636	0.577	2.5103e-06	0.01		1.0	1	2	2013.0	2013.0
+Ischemic stroke	C0948008	IL16	3603	Q14005	interleukin 16	Signaling	193	0.501	0.846	1.2449e-10	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	TNFRSF9	3604	Q07011	TNF receptor superfamily member 9		177	0.502	0.769	0.32153	0.01		1.0	1	2	2017.0	2017.0
+Ischemic stroke	C0948008	INSRR	3645	P14616	insulin receptor related receptor	Kinase	186	0.508	0.808	5.3976e-24	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	IRAK1	3654	P51617	interleukin 1 receptor associated kinase 1	Kinase	200	0.506	0.808	0.98774	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	IRS1	3667	P35568	insulin receptor substrate 1		233	0.488	0.769	0.023645	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	ABCC6	368	O95255	ATP binding cassette subfamily C member 6	Transporter	181	0.54	0.654	5.6167e-35	0.01		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	ITGB2	3689	P05107	integrin subunit beta 2	Receptor	340	0.444	0.923	5.0817e-15	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	JAK3	3718	P52333	Janus kinase 3	Kinase	194	0.505	0.731	5.9311e-06	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	JUNB	3726	P17275	JunB proto-oncogene, AP-1 transcription factor subunit	Transcription factor	264	0.467	0.769	0.86299	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	AREG	374	P15514	amphiregulin	Signaling	221	0.487	0.769	0.35407	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PEAR1	375033	Q5VY43	platelet endothelial aggregation receptor 1		27	0.722	0.346	3.4806e-20	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	KDR	3791	P35968	kinase insert domain receptor	Kinase	623	0.378	0.885	0.99982	0.01		1.0	1	1	1999.0	1999.0
+Ischemic stroke	C0948008	KIR2DS1	3806	Q14954	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 1	Receptor	123	0.537	0.769		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	KIR3DL1	3811	P43629	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1	Receptor	231	0.475	0.769	8.3578e-14	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	KIR3DL2	3812	P43630	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2	Receptor	118	0.543	0.769	6.0804e-12	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	KRT18	3875	P05783	keratin 18		151	0.53	0.692	0.73477	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	C11orf96	387763	Q7Z7L8	chromosome 11 open reading frame 96		3	0.89	0.154	0.0096256	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	TSPYL6	388951	Q8N831	TSPY like 6		4	0.89	0.154		0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	LAD1	3898	O00515	ladinin 1	Cellular structure	87	0.584	0.731	1.7834e-14	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	LAMA5	3911	O15230	laminin subunit alpha 5	Enzyme modulator	56	0.636	0.577	0.0064742	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	LAMC2	3918	Q13753	laminin subunit gamma 2	Enzyme modulator	602	0.389	0.923	2.8791e-12	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	LAMP2	3920	P13473	lysosomal associated membrane protein 2	Transporter	134	0.552	0.731	0.26698	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	RPSA	3921	P08865	ribosomal protein SA	Nucleic acid binding	221	0.485	0.769	0.93037	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	LCP1	3936	P13796	lymphocyte cytosolic protein 1	Cellular structure	44	0.663	0.654	0.55261	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	LEPR	3953	P48357	leptin receptor	Signaling	416	0.433	0.808	0.99475	0.01		1.0	1	3	2015.0	2015.0
+Ischemic stroke	C0948008	LGALS9	3965	O00182	galectin 9	Signaling	197	0.496	0.769	6.548e-06	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	LIG4	3981	P49917	DNA ligase 4		293	0.478	0.846	4.1635e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	LIMK1	3984	P53667	LIM domain kinase 1	Kinase	271	0.488	0.731	0.99937	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	LOXL1	4016	Q08397	lysyl oxidase like 1		93	0.59	0.615	0.88677	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	LRP1	4035	Q07954	LDL receptor related protein 1		252	0.482	0.769	1.0	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	LRP6	4040	O75581	LDL receptor related protein 6		134	0.536	0.808	0.69664	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	LINC01194	404663		long intergenic non-protein coding RNA 1194		249	0.47	0.769		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CIMT	404677		Carotid intimal medial thickness		29	0.695	0.462		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIRLET7B	406884		microRNA let-7b		186	0.493	0.769		0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	MIRLET7E	406887		microRNA let-7e		72	0.592	0.769		0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	MIRLET7I	406891		microRNA let-7i		86	0.575	0.615		0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	MIR106A	406899		microRNA 106a		140	0.524	0.846		0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	MIR125B2	406912		microRNA 125b-2		38	0.659	0.423		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MIR129-2	406918		microRNA 129-2		43	0.653	0.654		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR130B	406920		microRNA 130b		115	0.547	0.808		0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	MIR140	406932		microRNA 140		144	0.522	0.769		0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	MIR144	406936		microRNA 144		175	0.5	0.769		0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	MIR152	406943		microRNA 152		136	0.521	0.769		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR17	406952		microRNA 17		270	0.459	0.846		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR185	406961		microRNA 185		106	0.551	0.808		0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	MIR192	406967		microRNA 192		173	0.503	0.846		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR195	406971		microRNA 195		180	0.496	0.769		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR199B	406978		microRNA 199b		71	0.588	0.615		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR200C	406985		microRNA 200c		202	0.486	0.846		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR206	406989		microRNA 206		226	0.477	0.846		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR212	406994		microRNA 212		126	0.535	0.808		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR216A	406998		microRNA 216a		79	0.582	0.654		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR219A1	407002		microRNA 219a-1		75	0.595	0.615		0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	MIR22	407004		microRNA 22		195	0.496	0.808		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR221	407006		microRNA 221		304	0.449	0.846		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MIR30D	407033		microRNA 30d		97	0.563	0.654		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR31	407035		microRNA 31		235	0.471	0.769		0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	MIR34A	407040		microRNA 34a		428	0.421	0.846		0.01		1.0	1	3	2019.0	2019.0
+Ischemic stroke	C0948008	MIR93	407050		microRNA 93		171	0.507	0.808		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ARRB2	409	P32121	arrestin beta 2	Enzyme modulator	119	0.561	0.769	0.50658	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MAPT	4137	P10636	microtubule associated protein tau		469	0.446	0.923	0.0060258	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MBL2	4153	P11226	mannose binding lectin 2	Receptor	563	0.39	0.846	0.0026836	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MDK	4192	P21741	midkine	Signaling	209	0.494	0.808	0.23005	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MDM2	4193	Q00987	MDM2 proto-oncogene	Nucleic acid binding	702	0.362	0.846	0.99981	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CIITA	4261	P33076	class II major histocompatibility complex transactivator		149	0.536	0.808	1.3618e-07	0.01		1.0	1	0	2008.0	2008.0
+Ischemic stroke	C0948008	NR3C2	4306	P08235	nuclear receptor subfamily 3 group C member 2	Nuclear receptor	287	0.469	0.846	0.83739	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	MOG	4340	Q16653	myelin oligodendrocyte glycoprotein	Enzyme modulator	136	0.546	0.731	0.13748	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MRC1	4360	P22897	mannose receptor C-type 1		431	0.413	0.846	0.94335	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIAT	440823		myocardial infarction associated transcript		84	0.573	0.692		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	POTEKP	440915	Q9BYX7	POTE ankyrin domain family member K, pseudogene		131	0.542	0.769		0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	ZFAS1	441951		ZNFX1 antisense RNA 1		82	0.582	0.615		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR326	442900		microRNA 326		95	0.56	0.731		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MSD	4434		microcephaly with spastic diplegia (Paine syndrome)		35	0.674	0.654		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MSR1	4481	P21757	macrophage scavenger receptor 1	Enzyme	108	0.553	0.654	2.1571e-20	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PLF	450095		Pulmonary function		124	0.544	0.731		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MTAP	4507	Q13126	methylthioadenosine phosphorylase	Enzyme	167	0.514	0.731	7.5973e-08	0.01		1.0	1	1	2009.0	2009.0
+Ischemic stroke	C0948008	CYTB	4519	P00156	cytochrome b		166	0.529	0.808		0.01		0.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	MUSK	4593	O15146	muscle associated receptor tyrosine kinase	Kinase	146	0.57	0.769	4.2474e-08	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	MMUT	4594	P22033	methylmalonyl-CoA mutase	Enzyme	147	0.534	0.731	1.7087e-22	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	MVK	4598	Q03426	mevalonate kinase	Kinase	139	0.576	0.731	0.16679	0.01		1.0	1	2	2017.0	2017.0
+Ischemic stroke	C0948008	ATF3	467	P18847	activating transcription factor 3	Transcription factor	228	0.494	0.885	0.089296	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ATF4	468	P18848	activating transcription factor 4		178	0.507	0.769	0.015659	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	NDUFC2	4718	O95298	NADH:ubiquinone oxidoreductase subunit C2	Enzyme	8	0.805	0.308	0.68071	0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	NFKB1	4790	P19838	nuclear factor kappa B subunit 1	Transcription factor	551	0.396	0.923	1.0	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	NM	4827		neutrophil migration		250	0.473	0.808		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NNMT	4837	P40261	nicotinamide N-methyltransferase	Enzyme	103	0.559	0.654	5.2791e-08	0.01		1.0	1	0	2006.0	2006.0
+Ischemic stroke	C0948008	NPC1	4864	O15118	NPC intracellular cholesterol transporter 1	Transporter	220	0.518	0.692	6.5418e-06	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NPPB	4879	P16860	natriuretic peptide B		193	0.513	0.808	9.8786e-06	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NTF4	4909	P34130	neurotrophin 4	Signaling	46	0.644	0.692	0.012031	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR422A	494334		microRNA 422a		38	0.653	0.538		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MIR424	494336		microRNA 424		131	0.535	0.769		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	OATP1	4945		ornithine aminotransferase pseudogene 1		3	0.89	0.154		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	OGG1	4968	O15527	8-oxoguanine DNA glycosylase		313	0.453	0.808	3.9314e-12	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	OPRK1	4986	P41145	opioid receptor kappa 1	G-protein coupled receptor	156	0.555	0.615	4.0625e-05	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	OPRM1	4988	P35372	opioid receptor mu 1	G-protein coupled receptor	370	0.457	0.808	7.8882e-11	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	P2RX4	5025	Q99571	purinergic receptor P2X 4	Ion channel	138	0.547	0.808	4.9835e-12	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	P2RX7	5027	Q99572	purinergic receptor P2X 7	Ion channel	337	0.45	0.808	3.3344e-11	0.01		1.0	1	1	2012.0	2012.0
+Ischemic stroke	C0948008	P2RY2	5029	P41231	purinergic receptor P2Y2	G-protein coupled receptor	136	0.543	0.808	0.084245	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	DEFB104B	503618	Q8WTQ1	defensin beta 104B		42	0.638	0.692	0.33176	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	PAEP	5047	P09466	progestagen associated endometrial protein	Enzyme	397	0.43	0.846	3.1109e-08	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NOX4	50507	Q9NPH5	NADPH oxidase 4	Enzyme	260	0.471	0.885	5.7555e-20	0.01		1.0	1	2	2017.0	2017.0
+Ischemic stroke	C0948008	SERPINB2	5055	P05120	serpin family B member 2	Enzyme modulator	183	0.502	0.808	6.3773e-12	0.01		0.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	IL20	50604	Q9NYY1	interleukin 20		111	0.556	0.769	1.3447e-06	0.01		1.0	1	0	2009.0	2009.0
+Ischemic stroke	C0948008	PAPPA	5069	Q13219	pappalysin 1		125	0.558	0.692	0.1613	0.01		1.0	1	1	2014.0	2014.0
+Ischemic stroke	C0948008	AK3	50808	Q9UIJ7	adenylate kinase 3	Kinase	32	0.691	0.462	0.0001135	0.01		0.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PC	5091	P11498	pyruvate carboxylase	Enzyme	183	0.515	0.808	0.013834	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	PDE11A	50940	Q9HCR9	phosphodiesterase 11A		86	0.612	0.654	8.6896e-37	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	FOXP3	50943	Q9BZS1	forkhead box P3		688	0.368	0.846	0.99424	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	SERPINA5	5104	P05154	serpin family A member 5	Enzyme modulator	185	0.507	0.808	6.2368e-09	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	GAL	51083	P22466	galanin and GMAP prepropeptide		226	0.493	0.846	4.3885e-06	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MLXIPL	51085	Q9NP71	MLX interacting protein like		165	0.554	0.731	0.047771	0.01		1.0	1	1	2010.0	2010.0
+Ischemic stroke	C0948008	RMDN1	51115	Q96DB5	regulator of microtubule dynamics 1		123	0.546	0.769	5.8995e-10	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	IRAK4	51135	Q9NWZ3	interleukin 1 receptor associated kinase 4	Kinase	90	0.578	0.769	7.8001e-09	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	PCSK1	5122	P29120	proprotein convertase subtilisin/kexin type 1	Enzyme	140	0.548	0.615	2.745e-09	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MZB1	51237	Q8WU39	marginal zone B and B1 cell specific protein		100	0.565	0.769	0.00031626	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TLR7	51284	Q9NYK1	toll like receptor 7		276	0.464	0.885	0.97912	0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	TLR8	51311	Q9NR97	toll like receptor 8		122	0.543	0.769	0.32401	0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	SPTBN5	51332	Q9NRC6	spectrin beta, non-erythrocytic 5		5	0.861	0.192	8.2224e-118	0.01		1.0	1	1	2010.0	2010.0
+Ischemic stroke	C0948008	MS4A4A	51338	Q96JQ5	membrane spanning 4-domains A4A	Receptor	21	0.722	0.308	8.0964e-06	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ZC3HC1	51530	Q86WB0	zinc finger C3HC-type containing 1		23	0.76	0.308	0.00025557	0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	PDGFRB	5159	P09619	platelet derived growth factor receptor beta	Kinase	492	0.416	0.846	0.9041	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PECAM1	5175	P16284	platelet and endothelial cell adhesion molecule 1	Cell adhesion	396	0.426	0.846		0.01		1.0	1	2	2009.0	2009.0
+Ischemic stroke	C0948008	RTEL1	51750	Q9NZ71	regulator of telomere elongation helicase 1	Enzyme	321	0.459	0.808	8.8674e-10	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	STK26	51765	Q9P289	serine/threonine kinase 26	Kinase	26	0.705	0.538	0.30798	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	ASIC5	51802	Q9NY37	acid sensing ion channel subunit family member 5	Ion channel	8	0.805	0.423	6.0266e-14	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	SERPINE2	5270	P07093	serpin family E member 2	Enzyme modulator	87	0.592	0.692	0.7299	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	SERPINI1	5274	Q99574	serpin family I member 1	Enzyme modulator	58	0.631	0.462	0.026631	0.01		1.0	1	0	2004.0	2004.0
+Ischemic stroke	C0948008	PIK3R1	5295	P27986	phosphoinositide-3-kinase regulatory subunit 1	Kinase	285	0.477	0.885	0.99978	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	PITX2	5308	Q99697	paired like homeodomain 2		248	0.489	0.808	0.97618	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	PKM	5315	P14618	pyruvate kinase M1/2	Kinase	237	0.482	0.808	0.8549	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	PLIN1	5346	O60240	perilipin 1		85	0.59	0.654	3.1486e-11	0.01		1.0	1	0	2008.0	2008.0
+Ischemic stroke	C0948008	PLP1	5354	P60201	proteolipid protein 1	Cellular structure	160	0.543	0.769	0.92845	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ACP5	54	P13686	acid phosphatase 5, tartrate resistant		130	0.561	0.731	0.078651	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PNN	5411	Q9H307	pinin, desmosome associated protein		55	0.638	0.577	0.11262	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NANS	54187	Q9NR45	N-acetylneuraminate synthase	Enzyme	153	0.545	0.692		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	POR	5447	P16435	cytochrome p450 oxidoreductase		218	0.502	0.769	3.4212e-10	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	POU2F1	5451	P14859	POU class 2 homeobox 1		115	0.558	0.769	0.90229	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	TOMM7	54543	Q9P0U1	translocase of outer mitochondrial membrane 7		6	1.0	0.077	0.0097668	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	DLL4	54567	Q9NR61	delta like canonical Notch ligand 4		219	0.494	0.769	0.99982	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	EGLN1	54583	Q9GZT9	egl-9 family hypoxia inducible factor 1		130	0.54	0.731	0.97403	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	UGT1A1	54658	P22309	UDP glucuronosyltransferase family 1 member A1		302	0.464	0.769	3.2577e-06	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	PPBP	5473	P02775	pro-platelet basic protein	Signaling	111	0.544	0.808	0.057739	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ROPN1	54763	Q9HAT0	rhophilin associated tail protein 1		5	0.89	0.115	9.9631e-05	0.01		1.0	1	1	2010.0	2010.0
+Ischemic stroke	C0948008	PPIA	5478	P62937	peptidylprolyl isomerase A		180	0.51	0.769	0.55734	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TRPM7	54822	Q96QT4	transient receptor potential cation channel subfamily M member 7	Ion channel	151	0.531	0.731	5.2086e-16	0.01		1.0	1	0	2009.0	2009.0
+Ischemic stroke	C0948008	RASIP1	54922	Q5U651	Ras interacting protein 1		20	0.78	0.346	0.99803	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	TMEM132A	54972	Q24JP5	transmembrane protein 132A		15	0.792	0.308	2.041e-09	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ANO1	55107	Q5XXA6	anoctamin 1	Ion channel	175	0.516	0.769	0.87426	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	RMDN3	55177	Q96TC7	regulator of microtubule dynamics 3		134	0.534	0.769	5.1687e-05	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	IMPACT	55364	Q9P2X3	impact RWD domain protein		85	0.593	0.808	4.8274e-08	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR449A	554213		microRNA 449a		89	0.57	0.731		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PRH1	5554	P02810	proline rich protein HaeIII subfamily 1		41	0.659	0.5	0.0072243	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	PRH2	5555	P02810	proline rich protein HaeIII subfamily 2		38	0.663	0.5	0.012493	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	KIF16B	55614	Q96L93	kinesin family member 16B	Cellular structure	15	0.792	0.423	2.1e-19	0.01		1.0	1	0	2009.0	2009.0
+Ischemic stroke	C0948008	SYBU	55638	Q9NX95	syntabulin	Transporter	120	0.546	0.769	9.7732e-05	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PRKAR1A	5573	P10644	protein kinase cAMP-dependent type I regulatory subunit alpha		597	0.401	0.846	0.99985	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	VPS35	55737	Q96QK1	VPS35 retromer complex component	Transporter	66	0.656	0.5	0.96921	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PRKCA	5578	P17252	protein kinase C alpha	Kinase	368	0.44	0.846	0.3677	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PRKCD	5580	Q05655	protein kinase C delta	Kinase	287	0.48	0.846	0.99995	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	RNF130	55819	Q86XS8	ring finger protein 130		13	0.839	0.192	0.00030327	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	PRKD1	5587	Q15139	protein kinase D1	Kinase	171	0.531	0.846	6.6485e-07	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	ACSS2	55902	Q9NR19	acyl-CoA synthetase short chain family member 2	Enzyme	188	0.506	0.808	1.1443e-13	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	APOM	55937	O95445	apolipoprotein M		82	0.59	0.769	0.00095567	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	LRRC8A	56262	Q8IWT6	leucine rich repeat containing 8 VRAC subunit A		64	0.644	0.692	0.94398	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MASP1	5648	P48740	mannan binding lectin serine peptidase 1	Enzyme	123	0.565	0.885	1.2276e-11	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MMP26	56547	Q9NRE1	matrix metallopeptidase 26	Enzyme	58	0.65	0.615	5.3574e-11	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	B2M	567	P61769	beta-2-microglobulin	Immune response	352	0.447	0.846	0.56167	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SPHK2	56848	Q9NRA0	sphingosine kinase 2	Kinase	140	0.546	0.731	1.28e-07	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ANKS1B	56899	Q7Z6G8	ankyrin repeat and sterile alpha motif domain containing 1B	Receptor	43	0.686	0.423	0.99998	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PSMB9	5698	P28065	proteasome 20S subunit beta 9		167	0.514	0.808	0.0027499	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	PDXP	57026	Q96GD0	pyridoxal phosphatase	Enzyme	149	0.533	0.731	0.25559	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	RTN4	57142	Q9NQC3	reticulon 4		71	0.621	0.692	0.45318	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	PTGDR	5729	Q13258	prostaglandin D2 receptor	G-protein coupled receptor	45	0.65	0.615	3.58e-06	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PTGER2	5732	P43116	prostaglandin E receptor 2	G-protein coupled receptor	79	0.597	0.731	0.0074901	0.01		1.0	1	0	2006.0	2006.0
+Ischemic stroke	C0948008	MRS2	57380	Q9HD23	magnesium transporter MRS2		11	0.792	0.269	1.9516e-08	0.01		0.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PTGIR	5739	P43119	prostaglandin I2 receptor	G-protein coupled receptor	27	0.711	0.423	0.00088819	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	MIR363	574031		microRNA 363		83	0.578	0.692		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PTHLH	5744	P12272	parathyroid hormone like hormone		321	0.453	0.846	0.81146	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR451A	574411		microRNA 451a		177	0.505	0.769		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR410	574434		microRNA 410		87	0.575	0.692		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR497	574456		microRNA 497		116	0.539	0.808		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NDRG3	57446	Q9UGV2	NDRG family member 3	Enzyme	24	0.722	0.308	0.36564	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	NDRG2	57447	Q9UN36	NDRG family member 2	Enzyme	156	0.518	0.692	2.2044e-05	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR503	574506		microRNA 503		111	0.551	0.808		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NLN	57486	Q9BYT8	neurolysin	Enzyme	74	0.597	0.731	3.9148e-12	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	TAOK1	57551	Q7L7X3	TAO kinase 1	Kinase	19	0.792	0.269	0.99787	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SEMA6A	57556	Q9H2E6	semaphorin 6A	Signaling	211	0.486	0.808	0.99976	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	PTMA	5757	P06454	prothymosin alpha		71	0.604	0.731	0.034451	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PTMAP4	5761		prothymosin alpha pseudogene 4		49	0.638	0.731		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	RNF213	57674	Q63HN8	ring finger protein 213		59	0.628	0.538	4.9078e-55	0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	PRX	57716	Q9BXM0	periaxin		75	0.65	0.577	2.1337e-14	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	HAMP	57817	P81172	hepcidin antimicrobial peptide		377	0.433	0.846	0.0081797	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	BARD1	580	Q99728	BRCA1 associated RING domain 1		75	0.597	0.538	1.3777e-24	0.01		1.0	1	0	2001.0	2001.0
+Ischemic stroke	C0948008	NLRC4	58484	Q9NPP4	NLR family CARD domain containing 4		145	0.556	0.769	9.8714e-12	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	IL21	59067	Q9HBE4	interleukin 21		321	0.441	0.769	0.6254	0.01		1.0	1	1	2014.0	2014.0
+Ischemic stroke	C0948008	RAPSN	5913	Q13702	receptor associated protein of the synapse		121	0.593	0.731	0.0015148	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	RARRES2	5919	Q99969	retinoic acid receptor responder 2		180	0.519	0.731	2.716e-05	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	TRPV4	59341	Q9HBA0	transient receptor potential cation channel subfamily V member 4	Ion channel	422	0.457	0.808	2.237e-16	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	RENBP	5973	P51606	renin binding protein	Enzyme	156	0.528	0.769	0.44916	0.01		1.0	1	0	2008.0	2008.0
+Ischemic stroke	C0948008	ACTB	60	P60709	actin beta	Cellular structure	1110	0.325	0.923	0.98564	0.01		1.0	1	1	2020.0	2020.0
+Ischemic stroke	C0948008	RGS7	6000	P49802	regulator of G protein signaling 7		28	0.722	0.462	0.77696	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	RNASE3	6037	P12724	ribonuclease A family member 3		207	0.49	0.808		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PROK2	60675	Q9HC23	prokineticin 2	Signaling	151	0.555	0.769	0.013828	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	RPS20	6224	P60866	ribosomal protein S20	Nucleic acid binding	86	0.61	0.692	0.020686	0.01		0.0	1	0	2006.0	2006.0
+Ischemic stroke	C0948008	RTN1	6252	Q16799	reticulon 1		44	0.666	0.615	0.98593	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	SORT1	6272	Q99523	sortilin 1	Transporter	111	0.573	0.615	0.99987	0.01		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	S100A9	6280	P06702	S100 calcium binding protein A9	Calcium-binding protein	363	0.433	0.885	0.4777	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	S100A11	6282	P31949	S100 calcium binding protein A11	Calcium-binding protein	103	0.556	0.731	0.0084662	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	SAA1	6288	P0DJI8	serum amyloid A1	Transporter	188	0.513	0.808	0.01493	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	SAA2	6289	P0DJI9	serum amyloid A2	Transporter	103	0.568	0.731	2.7019e-06	0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	TSPAN31	6302	Q12999	tetraspanin 31		112	0.556	0.654	0.21925	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CEACAM1	634	P13688	CEA cell adhesion molecule 1		167	0.525	0.731	0.00078816	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	BHMT	635	Q93088	betaine--homocysteine S-methyltransferase		71	0.595	0.731	3.739e-14	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	CCL5	6352	P13501	C-C motif chemokine ligand 5	Signaling	514	0.403	0.885	0.0017516	0.01		1.0	1	1	2013.0	2013.0
+Ischemic stroke	C0948008	CCL19	6363	Q99731	C-C motif chemokine ligand 19	Signaling	126	0.542	0.692	0.31691	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	CCL23	6368	P55773	C-C motif chemokine ligand 23	Signaling	18	0.76	0.346	0.00059735	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CX3CL1	6376	P78423	C-X3-C motif chemokine ligand 1	Signaling	243	0.478	0.808	0.60837	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SDC1	6382	P18827	syndecan 1	Extracellular structure	323	0.445	0.769	0.0084118	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	SRR	63826	Q9GZT4	serine racemase	Enzyme	58	0.617	0.692	0.0057964	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NEUROG2	63973	Q9H2A3	neurogenin 2	Enzyme	20	0.716	0.5	0.81093	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	SELL	6402	P14151	selectin L		171	0.505	0.846	4.9624e-07	0.01		1.0	1	1	2011.0	2011.0
+Ischemic stroke	C0948008	CRLF2	64109	Q9HC73	cytokine receptor like factor 2	Signaling	61	0.615	0.538	3.3104e-07	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MOAP1	64112	Q96BY2	modulator of apoptosis 1		24	0.7	0.577	1.1736e-09	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	POTEM	641455	A6NI47	POTE ankyrin domain family member M		133	0.541	0.769	0.00031637	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	MAP2K4	6416	P45985	mitogen-activated protein kinase kinase 4	Kinase	100	0.559	0.692	0.99709	0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	SNHG6	641638		small nucleolar RNA host gene 6		51	0.633	0.423		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ABCG8	64241	Q9H221	ATP binding cassette subfamily G member 8	Transporter	116	0.573	0.538	2.3838e-20	0.01		1.0	1	1	2010.0	2010.0
+Ischemic stroke	C0948008	ITSN1	6453	Q15811	intersectin 1	Enzyme modulator	51	0.656	0.577	1.0	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	SHC1	6464	P29353	SHC adaptor protein 1	Signaling	80	0.597	0.538	0.0017351	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	GORASP1	64689	Q9BQQ3	golgi reassembly stacking protein 1		369	0.428	0.846	0.019543	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SHH	6469	Q15465	sonic hedgehog signaling molecule		303	0.461	0.846	0.98258	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	SHMT1	6470	P34896	serine hydroxymethyltransferase 1	Enzyme	106	0.566	0.654	1.275e-14	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	SMURF2	64750	Q9HAU4	SMAD specific E3 ubiquitin protein ligase 2	Enzyme	59	0.623	0.615	0.87235	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	NMNAT1	64802	Q9HAN9	nicotinamide nucleotide adenylyltransferase 1	Enzyme	57	0.656	0.269	0.035353	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MARCHF7	64844	Q9H992	membrane associated ring-CH-type finger 7		30	0.705	0.462	0.66162	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	AGXT2	64902	Q9BYV1	alanine--glyoxylate aminotransferase 2		25	0.729	0.385	3.7108e-28	0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	PINK1	65018	Q9BXM7	PTEN induced kinase 1	Kinase	209	0.516	0.769	1.8749e-10	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	ACD	65057	Q96AP0	ACD shelterin complex subunit and telomerase recruitment factor		96	0.603	0.731	1.1148e-12	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	NBEAL1	65065	Q6ZS30	neurobeachin like 1		60	0.638	0.692	5.1093e-33	0.01		0.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MARCKSL1	65108	P49006	MARCKS like 1		169	0.508	0.731	0.014253	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	WNK1	65125	Q9H4A3	WNK lysine deficient protein kinase 1	Kinase	460	0.416	0.846	1.0	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	WNK3	65267	Q9BYP7	WNK lysine deficient protein kinase 3	Kinase	13	0.751	0.346	0.99999	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	SLC6A4	6532	P31645	solute carrier family 6 member 4	Transporter	440	0.429	0.808	0.24602	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SLC6A11	6538	P48066	solute carrier family 6 member 11	Transporter	21	0.716	0.462	4.83e-05	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SLC6A13	6540	Q9NSD5	solute carrier family 6 member 13	Transporter	21	0.736	0.346	1.2157e-11	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SLC12A3	6559	P55017	solute carrier family 12 member 3	Transporter	252	0.493	0.808	3.0324e-32	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SLC19A1	6573	P41440	solute carrier family 19 member 1	Transporter	155	0.523	0.692	6.4655e-06	0.01		1.0	1	2	2015.0	2015.0
+Ischemic stroke	C0948008	SLC20A2	6575	Q08357	solute carrier family 20 member 2	Transporter	104	0.638	0.577	0.96545	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	SLCO1A2	6579	P46721	solute carrier organic anion transporter family member 1A2	Transporter	44	0.656	0.577	1.0581e-16	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CYP4F12	66002	Q9HCS2	cytochrome P450 family 4 subfamily F member 12	Enzyme	7	0.89	0.154	1.474e-17	0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	SMN1	6606	Q16637	survival of motor neuron 1, telomeric	Epigenetic regulator	317	0.454	0.769	0.015829	0.01		0.0	1	0	2001.0	2001.0
+Ischemic stroke	C0948008	SMN2	6607	Q16637	survival of motor neuron 2, centromeric		299	0.459	0.769	0.10337	0.01		0.0	1	0	2001.0	2001.0
+Ischemic stroke	C0948008	SNCA	6622	P37840	synuclein alpha	Transporter	449	0.427	0.885	0.8829	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	SNRNP70	6625	P08621	small nuclear ribonucleoprotein U1 subunit 70	Nucleic acid binding	67	0.595	0.692	0.99926	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MIR544A	664613		microRNA 544a		28	0.695	0.423		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MIR487B	664616		microRNA 487b		35	0.67	0.423		0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	SOD2	6648	P04179	superoxide dismutase 2	Enzyme	668	0.379	0.923	0.15499	0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	SOD3	6649	P08294	superoxide dismutase 3	Enzyme	138	0.531	0.808	0.00072272	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	BNIP3L	665	O60238	BCL2 interacting protein 3 like		63	0.636	0.654	0.15274	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	SOX2	6657	P48431	SRY-box transcription factor 2	Transcription factor	503	0.405	0.808	0.70662	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	SREBF2	6721	Q12772	sterol regulatory element binding transcription factor 2		112	0.566	0.577	0.20734	0.01		1.0	1	1	2012.0	2012.0
+Ischemic stroke	C0948008	SRF	6722	P11831	serum response factor	Transcription factor	147	0.534	0.808	0.97545	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	BRCA2	675	P51587	BRCA2 DNA repair associated	Nucleic acid binding	656	0.379	0.846	2.3581e-25	0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	SSTR4	6754	P31391	somatostatin receptor 4	G-protein coupled receptor	273	0.469	0.846	3.6978e-13	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	STAR	6770	P49675	steroidogenic acute regulatory protein		177	0.513	0.808	8.7679e-11	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	STAT4	6775	Q14765	signal transducer and activator of transcription 4	Nucleic acid binding	316	0.471	0.769	0.7662	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	STAT5A	6776	P42229	signal transducer and activator of transcription 5A	Nucleic acid binding	318	0.445	0.808	0.99994	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	STAT5B	6777	P51692	signal transducer and activator of transcription 5B	Nucleic acid binding	357	0.442	0.808	0.99988	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	SCARNA6	677772		small Cajal body-specific RNA 6		2	1.0	0.077		0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	STIM1	6786	Q13586	stromal interaction molecule 1		247	0.501	0.808	0.77534	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	BRS3	680	P32247	bombesin receptor subtype 3	G-protein coupled receptor	261	0.474	0.846	0.94849	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	ABCC8	6833	Q09428	ATP binding cassette subfamily C member 8	Transporter	317	0.474	0.846	7.9571e-24	0.01		1.0	1	0	2007.0	2007.0
+Ischemic stroke	C0948008	SYT1	6857	P21579	synaptotagmin 1	Transporter	460	0.412	0.846	0.60038	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	TAC1	6863	P20366	tachykinin precursor 1		478	0.424	0.923	0.74608	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ADAM17	6868	P78536	ADAM metallopeptidase domain 17		316	0.453	0.808	0.99528	0.01		0.0	1	2	2014.0	2014.0
+Ischemic stroke	C0948008	BTF3P11	690		basic transcription factor 3 pseudogene 11		154	0.519	0.731		0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	MIR532	693124		microRNA 532		52	0.628	0.615		0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	MIR605	693190		microRNA 605		43	0.644	0.423		0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	MIR608	693193		microRNA 608		55	0.615	0.538		0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	MIR618	693203		microRNA 618		35	0.67	0.5		0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	MIR638	693223		microRNA 638		48	0.636	0.462		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ZEB1	6935	P37275	zinc finger E-box binding homeobox 1	Transcription factor	310	0.442	0.808	0.96665	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TCN2	6948	P20062	transcobalamin 2		104	0.578	0.615	1.0478e-06	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	TEK	7010	Q02763	TEK receptor tyrosine kinase	Kinase	300	0.462	0.692	1.0	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	TERC	7012		telomerase RNA component		296	0.471	0.846		0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	TERT	7015	O14746	telomerase reverse transcriptase	Enzyme	703	0.374	0.846	0.99046	0.01		1.0	1	2	2017.0	2017.0
+Ischemic stroke	C0948008	TFDP1	7027	Q14186	transcription factor Dp-1	Nucleic acid binding	56	0.623	0.692	0.97174	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	TFPI	7035	P10646	tissue factor pathway inhibitor	Enzyme modulator	230	0.486	0.808	0.2477	0.01		0.0	1	0	2007.0	2007.0
+Ischemic stroke	C0948008	TGM2	7052	P21980	transglutaminase 2	Enzyme	315	0.445	0.808	6.8118e-18	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	THBS1	7057	P07996	thrombospondin 1		480	0.407	0.885	0.99985	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	TIMP1	7076	P01033	TIMP metallopeptidase inhibitor 1	Enzyme modulator	603	0.38	0.885	0.4993	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TLR3	7098	O15455	toll like receptor 3	Receptor	393	0.427	0.885	1.6349e-07	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	ACTG1	71	P63261	actin gamma 1	Cellular structure	291	0.477	0.846	0.0047837	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	SERPING1	710	P05155	serpin family G member 1	Enzyme modulator	207	0.507	0.769	0.96351	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TLR5	7100	O60602	toll like receptor 5		163	0.518	0.885	2.4773e-13	0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	TM7SF2	7108	O76062	transmembrane 7 superfamily member 2	Enzyme	217	0.486	0.808	1.366e-07	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	CLDN5	7122	O00501	claudin 5	Cell-cell junction	104	0.559	0.769	0.89512	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TNFAIP3	7128	P21580	TNF alpha induced protein 3	Enzyme	212	0.481	0.808	0.99972	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	TNFRSF1A	7132	P19438	TNF receptor superfamily member 1A		487	0.409	0.923	0.9949	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	TNNI3	7137	P19429	troponin I3, cardiac type	Cellular structure	159	0.52	0.769	0.096284	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	TRC-GCA24-1	7183		tRNA-Cys (GCA) 24-1		21	0.729	0.346		0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TRAF3	7187	Q13114	TNF receptor associated factor 3	Signaling	129	0.541	0.769	0.99869	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	ACTG2	72	P63267	actin gamma 2, smooth muscle	Cellular structure	205	0.505	0.808	0.071036	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	TRH	7200	P20396	thyrotropin releasing hormone		230	0.519	0.846	0.00089084	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	TRPC6	7225	Q9Y210	transient receptor potential cation channel subfamily C member 6	Ion channel	166	0.514	0.692	3.0274e-07	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	TRPM2	7226	O94759	transient receptor potential cation channel subfamily M member 2	Ion channel	133	0.546	0.731	8.9633e-44	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	TRPS1	7227	Q9UHF7	transcriptional repressor GATA binding 1		248	0.537	0.769	1.0	0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	C5	727	P01031	complement C5	Enzyme modulator	129	0.55	0.731	8.079e-24	0.01		1.0	1	2	2016.0	2016.0
+Ischemic stroke	C0948008	TTR	7276	P02766	transthyretin	Transporter	461	0.423	0.885	0.51566	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	UBE2L3	7332	P68036	ubiquitin conjugating enzyme E2 L3	Enzyme	56	0.644	0.615	0.83844	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	UCHL1	7345	P09936	ubiquitin C-terminal hydrolase L1	Enzyme	260	0.482	0.885	0.99095	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	UGCG	7357	Q16739	UDP-glucose ceramide glucosyltransferase	Enzyme	111	0.56	0.808	0.94147	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	UGT2B4	7363	P06133	UDP glucuronosyltransferase family 2 member B4		16	0.751	0.231	4.3777e-09	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	UMOD	7369	P07911	uromodulin		164	0.52	0.846	3.0798e-17	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	VPS51	738	Q9UID3	VPS51 subunit of GARP complex		292	0.452	0.846	1.052e-08	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	USF1	7391	P22415	upstream transcription factor 1		82	0.592	0.692	0.023545	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	UTRN	7402	P46939	utrophin		152	0.525	0.692	1.0021e-19	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	VASP	7408	P50552	vasodilator stimulated phosphoprotein		65	0.626	0.577	0.94665	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	VDR	7421	P11473	vitamin D receptor	Nuclear receptor	852	0.352	0.885	1.6787e-05	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	VEGFB	7423	P49765	vascular endothelial growth factor B	Signaling	82	0.592	0.615	1.3114e-09	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	VIP	7432	P01282	vasoactive intestinal peptide	Signaling	376	0.437	0.846	0.00041995	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	VSNL1	7447	P62760	visinin like 1		52	0.631	0.423	0.45742	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	VTN	7448	P04004	vitronectin		178	0.509	0.769	1.5014e-10	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	WRN	7486	Q14191	WRN RecQ like helicase	Enzyme	172	0.524	0.808	2.6432e-34	0.01		1.0	1	1	2017.0	2017.0
+Ischemic stroke	C0948008	CACNA1C	775	Q13936	calcium voltage-gated channel subunit alpha1 C	Ion channel	225	0.51	0.846	1.0	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ZNF208	7757	O43345	zinc finger protein 208		11	0.769	0.231	5.6261e-05	0.01		1.0	1	3	2017.0	2017.0
+Ischemic stroke	C0948008	MANF	7873	P55145	mesencephalic astrocyte derived neurotrophic factor		62	0.621	0.654	0.0013911	0.01		1.0	1	0	2020.0	2020.0
+Ischemic stroke	C0948008	REEP5	7905	Q00765	receptor accessory protein 5	Transporter	49	0.633	0.615	0.00069737	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	MUL1	79594	Q969V5	mitochondrial E3 ubiquitin protein ligase 1		241	0.473	0.808	1.9108e-06	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ADIPOR2	79602	Q86V24	adiponectin receptor 2	Receptor	103	0.564	0.731	0.36218	0.01		1.0	1	1	2014.0	2014.0
+Ischemic stroke	C0948008	TNFAIP8L2	79626	Q6P589	TNF alpha induced protein 8 like 2		90	0.575	0.615	0.038364	0.01		0.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	DHX40	79665	Q8IX18	DEAH-box helicase 40	Enzyme	64	0.608	0.769	0.7556	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	TFPI2	7980	P48307	tissue factor pathway inhibitor 2	Enzyme modulator	161	0.521	0.769	0.00084274	0.01		1.0	1	0	2006.0	2006.0
+Ischemic stroke	C0948008	EHMT1	79813	Q9H9B1	euchromatic histone lysine methyltransferase 1	Epigenetic regulator	371	0.46	0.808	1.0	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ARHGEF5	7984	Q12774	Rho guanine nucleotide exchange factor 5		140	0.526	0.808	7.5872e-14	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MAP9	79884	Q49MG5	microtubule associated protein 9		25	0.729	0.462	2.5444e-15	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ERMP1	79956	Q7Z2K6	endoplasmic reticulum metallopeptidase 1	Enzyme	8	0.861	0.154	1.6343e-12	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	WLS	79971	Q5T9L3	Wnt ligand secretion mediator		166	0.513	0.731	0.020463	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NAA25	80018	Q14CX7	N-alpha-acetyltransferase 25, NatB auxiliary subunit	Enzyme	81	0.603	0.692	1.0	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CALM1	801	P0DP23;P0DP24;P0DP25	calmodulin 1	Calcium-binding protein	253	0.472	0.808	0.94473	0.01		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	ZC3H12A	80149	Q5D1E8	zinc finger CCCH-type containing 12A	Nucleic acid binding	88	0.578	0.654	0.14015	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	FLAD1	80308	Q8NFF5	flavin adenine dinucleotide synthetase 1		58	0.638	0.692	0.0093637	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	KCNIP4	80333	Q6PIL6	potassium voltage-gated channel interacting protein 4	Ion channel	31	0.716	0.385	0.82064	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CALR	811	P27797	calreticulin	Calcium-binding protein	487	0.413	0.923	0.89133	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	CALU	813	O43852	calumenin	Calcium-binding protein	33	0.7	0.385	0.014005	0.01		1.0	1	0	2007.0	2007.0
+Ischemic stroke	C0948008	AKAP1	8165	Q92667	A-kinase anchoring protein 1	Enzyme	35	0.678	0.577	0.74238	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	RNF146	81847	Q9NTX7	ring finger protein 146		27	0.705	0.577	0.81992	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	QTRT1	81890	Q9BXR0	queuine tRNA-ribosyltransferase catalytic subunit 1		39	0.659	0.538	2.5932e-07	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	BRAP	8315	Q7Z569	BRCA1 associated protein		82	0.612	0.769	3.7512e-06	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	CASP1	834	P29466	caspase 1	Enzyme	444	0.413	0.885	3.5183e-05	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PLVAP	83483	Q9BX97	plasmalemma vesicle associated protein		40	0.695	0.538	2.3021e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	BCO2	83875	Q9BYV7	beta-carotene oxygenase 2		19	0.78	0.231	3.7829e-18	0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	TSPAN10	83882	Q9H1Z9	tetraspanin 10		9	0.821	0.269	9.7125e-06	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	CASP7	840	P55210	caspase 7	Enzyme	83	0.581	0.654	5.3589e-05	0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	CASP8	841	Q14790	caspase 8	Enzyme	480	0.404	0.923	3.7236e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MINDY4	84182	Q4G0A6	MINDY lysine 48 deubiquitinase 4		122	0.538	0.731	3.2175e-19	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	KLF11	8462	O14901	Kruppel like factor 11	Nucleic acid binding	70	0.626	0.654	8.3215e-09	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	NTNG2	84628	Q96CW9	netrin G2	Enzyme modulator	31	0.7	0.423	0.99866	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	KDM2B	84678	Q8NHM5	lysine demethylase 2B	Epigenetic regulator	86	0.592	0.692	1.0	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ACCS	84680	Q96QU6	1-aminocyclopropane-1-carboxylate synthase homolog (inactive)	Enzyme	161	0.522	0.731	8.9836e-07	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CAT	847	P04040	catalase	Enzyme	794	0.359	0.962	1.6263e-10	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	PSRC1	84722	Q6PGN9	proline and serine rich coiled-coil 1		13	0.76	0.269	8.556e-09	0.01		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	GPR65	8477	Q8IYL9	G protein-coupled receptor 65	G-protein coupled receptor	47	0.653	0.5	0.1114	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	IL17RC	84818	Q8NAC3	interleukin 17 receptor C		65	0.633	0.615	2.3004e-14	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	ORAI1	84876	Q96D31	ORAI calcium release-activated calcium modulator 1	Ion channel	195	0.52	0.808	1.9068e-05	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	APOL1	8542	O14791	apolipoprotein L1	Transporter	115	0.547	0.615	5.1357e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	DOCK7	85440	Q96N67	dedicator of cytokinesis 7	Enzyme modulator	51	0.682	0.423	6.358e-06	0.01		1.0	1	3	2018.0	2018.0
+Ischemic stroke	C0948008	PIAS1	8554	O75925	protein inhibitor of activated STAT 1		54	0.633	0.731	0.99999	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	DENR	8562	O43583	density regulated re-initiation and release factor	Enzyme	121	0.543	0.692	0.87514	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	MADD	8567	Q8WXG6	MAP kinase activating death domain		57	0.644	0.538	1.5363e-14	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	TNFSF11	8600	O14788	TNF superfamily member 11	Signaling	327	0.453	0.846	0.0049159	0.01		1.0	1	1	2016.0	2016.0
+Ischemic stroke	C0948008	PLPP3	8613	O14495	phospholipid phosphatase 3	Enzyme	30	0.722	0.192	0.917	0.01		1.0	1	1	2018.0	2018.0
+Ischemic stroke	C0948008	PDE5A	8654	O76074	phosphodiesterase 5A		187	0.513	0.731	0.00010643	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	TNKS	8658	O95271	tankyrase		88	0.576	0.692	0.011406	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	ABCC3	8714	O15438	ATP binding cassette subfamily C member 3	Transporter	160	0.517	0.769	1.2092e-26	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	TNFSF14	8740	O43557	TNF superfamily member 14	Signaling	143	0.529	0.769	0.051663	0.01		1.0	1	0	2008.0	2008.0
+Ischemic stroke	C0948008	TNFSF10	8743	P50591	TNF superfamily member 10	Signaling	445	0.413	0.885	0.13495	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	TNFRSF11A	8792	Q9Y6Q6	TNF receptor superfamily member 11a		270	0.48	0.846	0.0087667	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	IL18RAP	8807	O95256	interleukin 18 receptor accessory protein	Receptor	41	0.674	0.577	0.0021796	0.01		1.0	1	0	2012.0	2012.0
+Ischemic stroke	C0948008	IL18R1	8809	Q13478	interleukin 18 receptor 1	Receptor	234	0.473	0.808	8.625e-06	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	NR1I2	8856	O75469	nuclear receptor subfamily 1 group I member 2	Nuclear receptor	462	0.418	0.846	7.2668e-09	0.01		1.0	1	1	2019.0	2019.0
+Ischemic stroke	C0948008	SQSTM1	8878	Q13501	sequestosome 1		470	0.428	0.885	0.00086035	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	OTULIN	90268	Q96BN8	OTU deubiquitinase with linear linkage specificity		26	0.751	0.346	0.2201	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	USP14	9097	P54578	ubiquitin specific peptidase 14	Enzyme	79	0.595	0.654	0.90546	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	LPAR2	9170	Q9HBW0	lysophosphatidic acid receptor 2	G-protein coupled receptor	285	0.463	0.846	0.036658	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	IL1RL1	9173	Q01638	interleukin 1 receptor like 1	Receptor	117	0.547	0.731	1.4407e-12	0.01		1.0	1	0	2013.0	2013.0
+Ischemic stroke	C0948008	XPR1	9213	Q9UBH6	xenotropic and polytropic retrovirus receptor 1	Transporter	217	0.488	0.731	0.99999	0.01		1.0	1	0	2015.0	2015.0
+Ischemic stroke	C0948008	METTL18	92342	O95568	methyltransferase like 18		1	1.0	0.077	2.8027e-05	0.01		1.0	1	1	2014.0	2014.0
+Ischemic stroke	C0948008	NOG	9241	Q13253	noggin		206	0.518	0.731	0.89026	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	MSC	9242	O60682	musculin		241	0.475	0.846	0.024651	0.01		1.0	1	0	2014.0	2014.0
+Ischemic stroke	C0948008	SPECC1	92521	Q5M775	sperm antigen with calponin homology and coiled-coil domains 1		47	0.659	0.577	0.00086772	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	DNER	92737	Q8NFT8	delta/notch like EGF repeat containing		203	0.493	0.769	0.1859	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ASIC3	9311	Q9UHC3	acid sensing ion channel subunit 3	Ion channel	51	0.663	0.538	3.4071e-07	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CD163	9332	Q86VB7	CD163 molecule	Enzyme	369	0.427	0.846	0.0008338	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ZFYVE9	9372	O95405	zinc finger FYVE-type containing 9		59	0.647	0.615	0.90244	0.01		1.0	1	0	2011.0	2011.0
+Ischemic stroke	C0948008	CD28	940	P10747	CD28 molecule		364	0.436	0.885	0.35779	0.01		1.0	1	0	2009.0	2009.0
+Ischemic stroke	C0948008	MUC16	94025	Q8WXI7	mucin 16, cell surface associated		236	0.479	0.808	8.2703e-112	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	FADS2	9415	O95864	fatty acid desaturase 2		140	0.575	0.692	0.99815	0.01		1.0	1	3	2015.0	2015.0
+Ischemic stroke	C0948008	HOMER2	9455	Q9NSB8	homer scaffold protein 2		29	0.691	0.5	0.0093921	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	HOMER1	9456	Q86YM7	homer scaffold protein 1		85	0.636	0.538	0.9992	0.01		1.0	1	0	2016.0	2016.0
+Ischemic stroke	C0948008	FHL5	9457	Q5TD97	four and a half LIM domains 5	Transcription factor	153	0.53	0.769	4.8464e-10	0.01		1.0	1	0	2010.0	2010.0
+Ischemic stroke	C0948008	CD34	947	P28906	CD34 molecule		674	0.368	0.808	4.9881e-06	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	CD36	948	P16671	CD36 molecule	Receptor	351	0.446	0.846	1.0857e-60	0.01		1.0	1	0	2003.0	2003.0
+Ischemic stroke	C0948008	ADAMTS4	9507	O75173	ADAM metallopeptidase with thrombospondin type 1 motif 4	Enzyme	84	0.582	0.692	1.9501e-06	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	ADAMTS3	9508	O15072	ADAM metallopeptidase with thrombospondin type 1 motif 3	Enzyme	116	0.581	0.808	1.0278e-10	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	GTPBP1	9567	O00178	GTP binding protein 1	Enzyme	13	0.792	0.308	0.93001	0.01		0.0	1	0	2005.0	2005.0
+Ischemic stroke	C0948008	SNCAIP	9627	Q9Y6H5	synuclein alpha interacting protein		44	0.691	0.423	0.00032848	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	PDE4DIP	9659	Q5VU43	phosphodiesterase 4D interacting protein		12	0.769	0.308	2.6099e-37	0.01		1.0	1	1	2015.0	2015.0
+Ischemic stroke	C0948008	CD74	972	P04233	CD74 molecule	Enzyme modulator	170	0.512	0.808	0.24889	0.01		1.0	1	0	2017.0	2017.0
+Ischemic stroke	C0948008	HDAC4	9759	P56524	histone deacetylase 4	Epigenetic regulator	256	0.484	0.885	1.0	0.01		1.0	1	0	2018.0	2018.0
+Ischemic stroke	C0948008	ACYP2	98	P14621	acylphosphatase 2	Enzyme	42	0.659	0.577	6.5331e-05	0.01		1.0	1	4	2017.0	2017.0
+Ischemic stroke	C0948008	XYLB	9942	O75191	xylulokinase	Kinase	8	0.821	0.154	1.3597e-22	0.01		1.0	1	1	2014.0	2014.0
+Ischemic stroke	C0948008	SLC23A2	9962	Q9UGH3	solute carrier family 23 member 2	Transporter	46	0.65	0.615	0.0062629	0.01		1.0	1	0	2019.0	2019.0
+Ischemic stroke	C0948008	CCS	9973	O14618	copper chaperone for superoxide dismutase	Enzyme	56	0.628	0.423	8.6291e-08	0.01		1.0	1	0	2017.0	2017.0
